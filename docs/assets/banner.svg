@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="Tumor-Associated Brain Frailty and Perioperative Brain Injury, a scoping review">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05080d"/>
+      <stop offset="1" stop-color="#0a1626"/>
+    </linearGradient>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#2dd4bf"/>
+      <stop offset="0.7" stop-color="#5aa9ff"/>
+      <stop offset="1" stop-color="#5aa9ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f0b13a" stop-opacity="0"/>
+      <stop offset="0.4" stop-color="#f0b13a"/>
+      <stop offset="0.75" stop-color="#ef6a57"/>
+      <stop offset="1" stop-color="#ef6a57" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="9"/></filter>
+    <radialGradient id="orbT"><stop offset="0" stop-color="#f0b13a"/><stop offset="1" stop-color="#f0b13a" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orbS"><stop offset="0" stop-color="#ef6a57"/><stop offset="1" stop-color="#ef6a57" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orbO"><stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
+    <clipPath id="clip"><rect width="1280" height="340" rx="22"/></clipPath>
+  </defs>
+  <style>
+    .flow { stroke-dasharray: 420 900; animation: run 7s linear infinite; }
+    .flow.b { animation-duration: 9s; animation-delay: -3s; }
+    .flow.c { animation-duration: 11s; animation-delay: -6s; }
+    @keyframes run { to { stroke-dashoffset: -1320; } }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 3.6s ease-in-out infinite; }
+    .pulse.d1 { animation-delay: -1.2s; }
+    .pulse.d2 { animation-delay: -2.4s; }
+    @keyframes pulse { 0%, 100% { transform: scale(0.8); opacity: 0.65; } 50% { transform: scale(1.25); opacity: 1; } }
+    .rise { animation: rise 1.2s cubic-bezier(0.05, 0.7, 0.1, 1) both; }
+    .rise.l2 { animation-delay: 0.18s; }
+    .rise.l3 { animation-delay: 0.36s; }
+    @keyframes rise { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
+    text { font-family: "Fira Sans", "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: "Fira Code", "Cascadia Code", Consolas, monospace; }
+    @media (prefers-reduced-motion: reduce) { .flow, .pulse, .rise { animation: none; } }
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="340" fill="url(#bg)"/>
+    <g opacity="0.55" filter="url(#blur)">
+      <path d="M-40 250 C 220 40, 420 330, 700 150 S 1100 60, 1340 210" fill="none" stroke="url(#g1)" stroke-width="26" class="flow"/>
+      <path d="M-40 90 C 260 300, 520 20, 780 190 S 1120 300, 1340 110" fill="none" stroke="url(#g2)" stroke-width="22" class="flow b"/>
+    </g>
+    <path d="M-40 250 C 220 40, 420 330, 700 150 S 1100 60, 1340 210" fill="none" stroke="url(#g1)" stroke-width="5" stroke-linecap="round" class="flow"/>
+    <path d="M-40 90 C 260 300, 520 20, 780 190 S 1120 300, 1340 110" fill="none" stroke="url(#g2)" stroke-width="4" stroke-linecap="round" class="flow b"/>
+    <path d="M-40 170 C 300 120, 560 290, 860 120 S 1160 220, 1340 160" fill="none" stroke="url(#g1)" stroke-width="2.5" stroke-linecap="round" class="flow c"/>
+    <g>
+      <circle cx="1010" cy="92" r="46" fill="url(#orbT)" class="pulse"/>
+      <circle cx="1010" cy="92" r="7" fill="#f0b13a"/>
+      <circle cx="1120" cy="226" r="52" fill="url(#orbS)" class="pulse d1"/>
+      <circle cx="1120" cy="226" r="7" fill="#ef6a57"/>
+      <circle cx="1210" cy="118" r="40" fill="url(#orbO)" class="pulse d2"/>
+      <circle cx="1210" cy="118" r="6" fill="#2dd4bf"/>
+      <path d="M1010 92 L1120 226 L1210 118" fill="none" stroke="#2b3d56" stroke-width="1.2" stroke-dasharray="3 6"/>
+    </g>
+    <g class="rise">
+      <text x="64" y="86" fill="#2dd4bf" font-size="15" letter-spacing="3" class="mono">SCOPING REVIEW  /  76 STUDIES  /  NEURO-ONCOLOGIC SURGERY</text>
+    </g>
+    <g class="rise l2">
+      <text x="64" y="162" fill="#e8eef6" font-size="58" font-weight="700" letter-spacing="-1.5">Tumor-associated</text>
+      <text x="64" y="228" fill="none" stroke="#e8eef6" stroke-width="1.6" font-size="58" font-weight="700" letter-spacing="-1.5">brain frailty</text>
+    </g>
+    <g class="rise l3">
+      <text x="64" y="274" fill="#8fa2b8" font-size="20">and perioperative brain injury: concepts, domains, mechanisms, biomarkers</text>
+      <text x="64" y="304" fill="#5f7390" font-size="14" letter-spacing="2" class="mono">RISETKU</text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1279" height="339" rx="21.5" fill="none" stroke="#1a2639"/>
+</svg>

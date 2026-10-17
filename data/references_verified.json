@@ -1,0 +1,6404 @@
+{
+ "core1": {
+  "key": "core1",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Portnow",
+    "given": "Jana",
+    "ini": "J"
+   },
+   {
+    "family": "Badie",
+    "given": "Behnam",
+    "ini": "B"
+   },
+   {
+    "family": "Liu",
+    "given": "Xueli",
+    "ini": "X"
+   },
+   {
+    "family": "Frankel",
+    "given": "Paul",
+    "ini": "P"
+   },
+   {
+    "family": "Mi",
+    "given": "Shu",
+    "ini": "S"
+   },
+   {
+    "family": "Chen",
+    "given": "Mike",
+    "ini": "M"
+   },
+   {
+    "family": "Synold",
+    "given": "Timothy W.",
+    "ini": "TW"
+   }
+  ],
+  "title": "A pilot microdialysis study in brain tumor patients to assess changes in intracerebral cytokine levels after craniotomy and in response to treatment with a targeted anti-cancer agent",
+  "journal": "Journal of Neuro-Oncology",
+  "abbr": "J Neurooncol",
+  "year": 2014,
+  "volume": "118",
+  "issue": "1",
+  "pages": "169-177",
+  "doi": "10.1007/s11060-014-1415-4",
+  "pmid": "",
+  "language": "en"
+ },
+ "core2": {
+  "key": "core2",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "de Sain",
+    "given": "A.M.",
+    "ini": "AM"
+   },
+   {
+    "family": "Mantione",
+    "given": "M.H.M.",
+    "ini": "MHM"
+   },
+   {
+    "family": "Wajer",
+    "given": "I.M.C. Huenges",
+    "ini": "IMCH"
+   },
+   {
+    "family": "van Zandvoort",
+    "given": "M.J.E.",
+    "ini": "MJE"
+   },
+   {
+    "family": "Willems",
+    "given": "P.W.A.",
+    "ini": "PWA"
+   },
+   {
+    "family": "Robe",
+    "given": "P.A.",
+    "ini": "PA"
+   },
+   {
+    "family": "Ruis",
+    "given": "C.",
+    "ini": "C"
+   }
+  ],
+  "title": "A timeline of cognitive functioning in glioma patients who undergo awake brain tumor surgery",
+  "journal": "Acta Neurochirurgica",
+  "abbr": "Acta Neurochir (Wien)",
+  "year": 2023,
+  "volume": "165",
+  "issue": "6",
+  "pages": "1645-1653",
+  "doi": "10.1007/s00701-023-05588-5",
+  "pmid": "",
+  "language": "en"
+ },
+ "core3": {
+  "key": "core3",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Noll",
+    "given": "Kyle R",
+    "ini": "KR"
+   },
+   {
+    "family": "Chen",
+    "given": "Henry S",
+    "ini": "HS"
+   },
+   {
+    "family": "Wefel",
+    "given": "Jeffrey S",
+    "ini": "JS"
+   },
+   {
+    "family": "Kumar",
+    "given": "Vinodh A",
+    "ini": "VA"
+   },
+   {
+    "family": "Hou",
+    "given": "Ping",
+    "ini": "P"
+   },
+   {
+    "family": "Ferguson",
+    "given": "Sherise D",
+    "ini": "SD"
+   },
+   {
+    "family": "Rao",
+    "given": "Ganesh",
+    "ini": "G"
+   },
+   {
+    "family": "Johnson",
+    "given": "Jason M",
+    "ini": "JM"
+   },
+   {
+    "family": "Schomer",
+    "given": "Donald F",
+    "ini": "DF"
+   },
+   {
+    "family": "Suki",
+    "given": "Dima",
+    "ini": "D"
+   },
+   {
+    "family": "Prabhu",
+    "given": "Sujit S",
+    "ini": "SS"
+   },
+   {
+    "family": "Liu",
+    "given": "Ho-Ling",
+    "ini": "HL"
+   }
+  ],
+  "title": "Alterations in functional connectomics associated with neurocognitive changes following glioma resection",
+  "journal": "Neurosurgery",
+  "abbr": "Neurosurgery",
+  "year": 2021,
+  "volume": "88",
+  "issue": "3",
+  "pages": "544-551",
+  "doi": "10.1093/neuros/nyaa453",
+  "pmid": "",
+  "language": "en"
+ },
+ "core4": {
+  "key": "core4",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Grossman",
+    "given": "Stuart A",
+    "ini": "SA"
+   },
+   {
+    "family": "Romo",
+    "given": "Carlos G",
+    "ini": "CG"
+   },
+   {
+    "family": "Ye",
+    "given": "Xiaobu",
+    "ini": "X"
+   },
+   {
+    "family": "Kral",
+    "given": "Brian",
+    "ini": "B"
+   },
+   {
+    "family": "Strowd",
+    "given": "Roy E",
+    "ini": "RE"
+   },
+   {
+    "family": "Lesser",
+    "given": "Glenn",
+    "ini": "G"
+   },
+   {
+    "family": "Raymond",
+    "given": "Catalina",
+    "ini": "C"
+   },
+   {
+    "family": "Iacoboni",
+    "given": "Michaella",
+    "ini": "M"
+   },
+   {
+    "family": "Desideri",
+    "given": "Serena",
+    "ini": "S"
+   },
+   {
+    "family": "Fisher",
+    "given": "Joy",
+    "ini": "J"
+   },
+   {
+    "family": "Danda",
+    "given": "Neeraja",
+    "ini": "N"
+   },
+   {
+    "family": "Ellingson",
+    "given": "Benjamin M",
+    "ini": "BM"
+   }
+  ],
+  "title": "Assessing the dose of regadenoson required to transiently alter blood-brain barrier integrity in patients with infiltrating gliomas",
+  "journal": "Neuro-Oncology Advances",
+  "abbr": "Neurooncol Adv",
+  "year": 2025,
+  "volume": "7",
+  "issue": "1",
+  "pages": "vdaf041",
+  "doi": "10.1093/noajnl/vdaf041",
+  "pmid": "",
+  "language": "en"
+ },
+ "core5": {
+  "key": "core5",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Wang",
+    "given": "Chun-Mei",
+    "ini": "CM"
+   },
+   {
+    "family": "Ma",
+    "given": "Yu-Lei",
+    "ini": "YL"
+   },
+   {
+    "family": "Yang",
+    "given": "Xi-Ying",
+    "ini": "XY"
+   },
+   {
+    "family": "Ji",
+    "given": "Run-Qing",
+    "ini": "RQ"
+   },
+   {
+    "family": "Gu",
+    "given": "Wan-Jie",
+    "ini": "WJ"
+   },
+   {
+    "family": "Zhou",
+    "given": "Jian-Xin",
+    "ini": "JX"
+   }
+  ],
+  "title": "Association of preoperative frailty with postoperative delirium after elective brain tumor resection: Retrospective analysis of a prospective cohort",
+  "journal": "Surgery",
+  "abbr": "Surgery",
+  "year": 2021,
+  "volume": "170",
+  "issue": "6",
+  "pages": "1763-1769",
+  "doi": "10.1016/j.surg.2021.05.048",
+  "pmid": "",
+  "language": "en"
+ },
+ "core6": {
+  "key": "core6",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Strand",
+    "given": "Per S.",
+    "ini": "PS"
+   },
+   {
+    "family": "Sagberg",
+    "given": "Lisa M.",
+    "ini": "LM"
+   },
+   {
+    "family": "Gulati",
+    "given": "Sasha",
+    "ini": "S"
+   },
+   {
+    "family": "Solheim",
+    "given": "Ole",
+    "ini": "O"
+   }
+  ],
+  "title": "Brain infarction following meningioma surgery-incidence, risk factors, and impact on function, seizure risk, and patient-reported quality of life",
+  "journal": "Neurosurgical Review",
+  "abbr": "Neurosurg Rev",
+  "year": 2022,
+  "volume": "45",
+  "issue": "5",
+  "pages": "3237-3244",
+  "doi": "10.1007/s10143-022-01840-1",
+  "pmid": "",
+  "language": "en"
+ },
+ "core7": {
+  "key": "core7",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Strand",
+    "given": "Per S.",
+    "ini": "PS"
+   },
+   {
+    "family": "Berntsen",
+    "given": "Erik M.",
+    "ini": "EM"
+   },
+   {
+    "family": "Fyllingen",
+    "given": "Even H.",
+    "ini": "EH"
+   },
+   {
+    "family": "Sagberg",
+    "given": "Lisa M.",
+    "ini": "LM"
+   },
+   {
+    "family": "Reinertsen",
+    "given": "Ingerid",
+    "ini": "I"
+   },
+   {
+    "family": "Gulati",
+    "given": "Sasha",
+    "ini": "S"
+   },
+   {
+    "family": "Bouget",
+    "given": "David",
+    "ini": "D"
+   },
+   {
+    "family": "Solheim",
+    "given": "Ole",
+    "ini": "O"
+   }
+  ],
+  "title": "Brain infarctions after glioma surgery: prevalence, radiological characteristics and risk factors",
+  "journal": "Acta Neurochirurgica",
+  "abbr": "Acta Neurochir (Wien)",
+  "year": 2021,
+  "volume": "163",
+  "issue": "11",
+  "pages": "3097-3108",
+  "doi": "10.1007/s00701-021-04914-z",
+  "pmid": "",
+  "language": "en"
+ },
+ "core8": {
+  "key": "core8",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Sharma",
+    "given": "Deepak",
+    "ini": "D"
+   },
+   {
+    "family": "Bithal",
+    "given": "Parmod K.",
+    "ini": "PK"
+   },
+   {
+    "family": "Dash",
+    "given": "Hari H.",
+    "ini": "HH"
+   },
+   {
+    "family": "Chouhan",
+    "given": "Rajendra S.",
+    "ini": "RS"
+   },
+   {
+    "family": "Sookplung",
+    "given": "Pimwan",
+    "ini": "P"
+   },
+   {
+    "family": "Vavilala",
+    "given": "Monica S.",
+    "ini": "MS"
+   }
+  ],
+  "title": "Cerebral autoregulation and CO2 reactivity before and after elective supratentorial tumor resection",
+  "journal": "Journal of Neurosurgical Anesthesiology",
+  "abbr": "J Neurosurg Anesthesiol",
+  "year": 2010,
+  "volume": "22",
+  "issue": "2",
+  "pages": "132-137",
+  "doi": "10.1097/ana.0b013e3181c9fbf1",
+  "pmid": "",
+  "language": "en"
+ },
+ "core9": {
+  "key": "core9",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Kemmerer",
+    "given": "Constanze L.",
+    "ini": "CL"
+   },
+   {
+    "family": "Schittenhelm",
+    "given": "Jens",
+    "ini": "J"
+   },
+   {
+    "family": "Dubois",
+    "given": "Evelyn",
+    "ini": "E"
+   },
+   {
+    "family": "Neumann",
+    "given": "Laura",
+    "ini": "L"
+   },
+   {
+    "family": "Häsler",
+    "given": "Lisa M.",
+    "ini": "LM"
+   },
+   {
+    "family": "Lambert",
+    "given": "Marius",
+    "ini": "M"
+   },
+   {
+    "family": "Renovanz",
+    "given": "Mirjam",
+    "ini": "M"
+   },
+   {
+    "family": "Kaeser",
+    "given": "Stephan A.",
+    "ini": "SA"
+   },
+   {
+    "family": "Tabatabai",
+    "given": "Ghazaleh",
+    "ini": "G"
+   },
+   {
+    "family": "Ziemann",
+    "given": "Ulf",
+    "ini": "U"
+   },
+   {
+    "family": "Naumann",
+    "given": "Ulrike",
+    "ini": "U"
+   },
+   {
+    "family": "Kowarik",
+    "given": "Markus C.",
+    "ini": "MC"
+   }
+  ],
+  "title": "Cerebrospinal fluid cytokine levels are associated with macrophage infiltration into tumor tissues of glioma patients",
+  "journal": "BMC Cancer",
+  "abbr": "BMC Cancer",
+  "year": 2021,
+  "volume": "21",
+  "issue": "1",
+  "pages": "1108",
+  "doi": "10.1186/s12885-021-08825-1",
+  "pmid": "",
+  "language": "en"
+ },
+ "core10": {
+  "key": "core10",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Michaëlsson",
+    "given": "Isak",
+    "ini": "I"
+   },
+   {
+    "family": "Hallén",
+    "given": "Tobias",
+    "ini": "T"
+   },
+   {
+    "family": "Carstam",
+    "given": "Louise",
+    "ini": "L"
+   },
+   {
+    "family": "Laesser",
+    "given": "Mats",
+    "ini": "M"
+   },
+   {
+    "family": "Björkman-Burtscher",
+    "given": "Isabella M.",
+    "ini": "IM"
+   },
+   {
+    "family": "Sörbo",
+    "given": "Ann",
+    "ini": "A"
+   },
+   {
+    "family": "Blennow",
+    "given": "Kaj",
+    "ini": "K"
+   },
+   {
+    "family": "Zetterberg",
+    "given": "Henrik",
+    "ini": "H"
+   },
+   {
+    "family": "Jakola",
+    "given": "Asgeir S.",
+    "ini": "AS"
+   },
+   {
+    "family": "Skoglund",
+    "given": "Thomas",
+    "ini": "T"
+   }
+  ],
+  "title": "Circulating brain injury biomarkers: a novel method for quantification of the impact on the brain after tumor surgery",
+  "journal": "Neurosurgery",
+  "abbr": "Neurosurgery",
+  "year": 2023,
+  "volume": "93",
+  "issue": "4",
+  "pages": "847-856",
+  "doi": "10.1227/neu.0000000000002510",
+  "pmid": "",
+  "language": "en"
+ },
+ "core11": {
+  "key": "core11",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Satoer",
+    "given": "Djaina",
+    "ini": "D"
+   },
+   {
+    "family": "Vork",
+    "given": "Judith",
+    "ini": "J"
+   },
+   {
+    "family": "Visch-Brink",
+    "given": "Evy",
+    "ini": "E"
+   },
+   {
+    "family": "Smits",
+    "given": "Marion",
+    "ini": "M"
+   },
+   {
+    "family": "Dirven",
+    "given": "Clemens",
+    "ini": "C"
+   },
+   {
+    "family": "Vincent",
+    "given": "Arnaud",
+    "ini": "A"
+   }
+  ],
+  "title": "Cognitive functioning early after surgery of gliomas in eloquent areas",
+  "journal": "Journal of Neurosurgery",
+  "abbr": "J Neurosurg",
+  "year": 2012,
+  "volume": "117",
+  "issue": "5",
+  "pages": "831-838",
+  "doi": "10.3171/2012.7.jns12263",
+  "pmid": "",
+  "language": "en"
+ },
+ "core12": {
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Law",
+    "given": "Meng",
+    "ini": "M"
+   },
+   {
+    "family": "Yang",
+    "given": "Stanley",
+    "ini": "S"
+   },
+   {
+    "family": "Babb",
+    "given": "James S",
+    "ini": "JS"
+   },
+   {
+    "family": "Knopp",
+    "given": "Edmond A",
+    "ini": "EA"
+   },
+   {
+    "family": "Golfinos",
+    "given": "John G",
+    "ini": "JG"
+   },
+   {
+    "family": "Zagzag",
+    "given": "David",
+    "ini": "D"
+   },
+   {
+    "family": "Johnson",
+    "given": "Glyn",
+    "ini": "G"
+   }
+  ],
+  "title": "Comparison of cerebral blood volume and vascular permeability from dynamic susceptibility contrast-enhanced perfusion MR imaging with glioma grade",
+  "journal": "AJNR American journal of neuroradiology",
+  "abbr": "AJNR Am J Neuroradiol",
+  "year": 2004,
+  "volume": "25",
+  "issue": "5",
+  "pages": "746-755",
+  "doi": "",
+  "key": "core12",
+  "pmid": "15140713"
+ },
+ "core13": {
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Cha",
+    "given": "S",
+    "ini": "S"
+   },
+   {
+    "family": "Yang",
+    "given": "L",
+    "ini": "L"
+   },
+   {
+    "family": "Johnson",
+    "given": "G",
+    "ini": "G"
+   },
+   {
+    "family": "Lai",
+    "given": "A",
+    "ini": "A"
+   },
+   {
+    "family": "Chen",
+    "given": "M-H",
+    "ini": "MH"
+   },
+   {
+    "family": "Tihan",
+    "given": "T",
+    "ini": "T"
+   },
+   {
+    "family": "Wendland",
+    "given": "M",
+    "ini": "M"
+   },
+   {
+    "family": "Dillon",
+    "given": "W P",
+    "ini": "WP"
+   }
+  ],
+  "title": "Comparison of microvascular permeability measurements, K(trans), determined with conventional steady-state T1-weighted and first-pass T2*-weighted MR imaging methods in gliomas and meningiomas",
+  "journal": "AJNR American journal of neuroradiology",
+  "abbr": "AJNR Am J Neuroradiol",
+  "year": 2006,
+  "volume": "27",
+  "issue": "2",
+  "pages": "409-417",
+  "doi": "",
+  "key": "core13",
+  "pmid": "16484420"
+ },
+ "core14": {
+  "key": "core14",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "van Dellen",
+    "given": "E.",
+    "ini": "E"
+   },
+   {
+    "family": "de Witt Hamer",
+    "given": "P.C.",
+    "ini": "PC"
+   },
+   {
+    "family": "Douw",
+    "given": "L.",
+    "ini": "L"
+   },
+   {
+    "family": "Klein",
+    "given": "M.",
+    "ini": "M"
+   },
+   {
+    "family": "Heimans",
+    "given": "J.J.",
+    "ini": "JJ"
+   },
+   {
+    "family": "Stam",
+    "given": "C.J.",
+    "ini": "CJ"
+   },
+   {
+    "family": "Reijneveld",
+    "given": "J.C.",
+    "ini": "JC"
+   },
+   {
+    "family": "Hillebrand",
+    "given": "A.",
+    "ini": "A"
+   }
+  ],
+  "title": "Connectivity in MEG resting-state networks increases after resective surgery for low-grade glioma and correlates with improved cognitive performance",
+  "journal": "NeuroImage: Clinical",
+  "abbr": "Neuroimage Clin",
+  "year": 2013,
+  "volume": "2",
+  "issue": "",
+  "pages": "1-7",
+  "doi": "10.1016/j.nicl.2012.10.007",
+  "pmid": "",
+  "language": "en"
+ },
+ "core15": {
+  "key": "core15",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Einav",
+    "given": "Sharon",
+    "ini": "S"
+   },
+   {
+    "family": "Shoshan",
+    "given": "Yigal",
+    "ini": "Y"
+   },
+   {
+    "family": "Ovadia",
+    "given": "Haim",
+    "ini": "H"
+   },
+   {
+    "family": "Matot",
+    "given": "Idit",
+    "ini": "I"
+   },
+   {
+    "family": "Hersch",
+    "given": "Moshe",
+    "ini": "M"
+   },
+   {
+    "family": "Itshayek",
+    "given": "Eyal",
+    "ini": "E"
+   }
+  ],
+  "title": "Early postoperative serum S100β levels predict ongoing brain damage after meningioma surgery: a prospective observational study",
+  "journal": "Critical Care",
+  "abbr": "Crit Care",
+  "year": 2006,
+  "volume": "10",
+  "issue": "5",
+  "pages": "R141",
+  "doi": "10.1186/cc5058",
+  "pmid": "",
+  "language": "en"
+ },
+ "core16": {
+  "key": "core16",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Sastry",
+    "given": "Rahul A.",
+    "ini": "RA"
+   },
+   {
+    "family": "Pertsch",
+    "given": "Nathan J.",
+    "ini": "NJ"
+   },
+   {
+    "family": "Tang",
+    "given": "Oliver",
+    "ini": "O"
+   },
+   {
+    "family": "Shao",
+    "given": "Belinda",
+    "ini": "B"
+   },
+   {
+    "family": "Toms",
+    "given": "Steven A.",
+    "ini": "SA"
+   },
+   {
+    "family": "Weil",
+    "given": "Robert J.",
+    "ini": "RJ"
+   }
+  ],
+  "title": "Frailty and outcomes after craniotomy for brain tumor",
+  "journal": "Journal of Clinical Neuroscience",
+  "abbr": "J Clin Neurosci",
+  "year": 2020,
+  "volume": "81",
+  "issue": "",
+  "pages": "95-100",
+  "doi": "10.1016/j.jocn.2020.09.002",
+  "pmid": "",
+  "language": "en"
+ },
+ "core17": {
+  "key": "core17",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Harland",
+    "given": "Tessa A.",
+    "ini": "TA"
+   },
+   {
+    "family": "Wang",
+    "given": "Mary",
+    "ini": "M"
+   },
+   {
+    "family": "Gunaydin",
+    "given": "Dicle",
+    "ini": "D"
+   },
+   {
+    "family": "Fringuello",
+    "given": "Anthony",
+    "ini": "A"
+   },
+   {
+    "family": "Freeman",
+    "given": "Jacob",
+    "ini": "J"
+   },
+   {
+    "family": "Hosokawa",
+    "given": "Patrick W.",
+    "ini": "PW"
+   },
+   {
+    "family": "Ormond",
+    "given": "D. Ryan",
+    "ini": "DR"
+   }
+  ],
+  "title": "Frailty as a predictor of neurosurgical outcomes in brain tumor patients",
+  "journal": "World Neurosurgery",
+  "abbr": "World Neurosurg",
+  "year": 2020,
+  "volume": "133",
+  "issue": "",
+  "pages": "e813-e818",
+  "doi": "10.1016/j.wneu.2019.10.010",
+  "pmid": "",
+  "language": "en"
+ },
+ "core18": {
+  "key": "core18",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Lang",
+    "given": "Stefan",
+    "ini": "S"
+   },
+   {
+    "family": "Gaxiola-Valdez",
+    "given": "Ismael",
+    "ini": "I"
+   },
+   {
+    "family": "Opoku-Darko",
+    "given": "Michael",
+    "ini": "M"
+   },
+   {
+    "family": "Partlo",
+    "given": "Lisa A.",
+    "ini": "LA"
+   },
+   {
+    "family": "Goodyear",
+    "given": "Bradley G.",
+    "ini": "BG"
+   },
+   {
+    "family": "Kelly",
+    "given": "John J.P.",
+    "ini": "JJP"
+   },
+   {
+    "family": "Federico",
+    "given": "Paolo",
+    "ini": "P"
+   }
+  ],
+  "title": "Functional connectivity in frontoparietal network: indicator of preoperative cognitive function and cognitive outcome following surgery in patients with glioma",
+  "journal": "World Neurosurgery",
+  "abbr": "World Neurosurg",
+  "year": 2017,
+  "volume": "105",
+  "issue": "",
+  "pages": "913-922.e2",
+  "doi": "10.1016/j.wneu.2017.05.149",
+  "pmid": "",
+  "language": "en"
+ },
+ "core19": {
+  "key": "core19",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Satoer",
+    "given": "Djaina",
+    "ini": "D"
+   },
+   {
+    "family": "Visch-Brink",
+    "given": "Evy",
+    "ini": "E"
+   },
+   {
+    "family": "Smits",
+    "given": "Marion",
+    "ini": "M"
+   },
+   {
+    "family": "Kloet",
+    "given": "Alfred",
+    "ini": "A"
+   },
+   {
+    "family": "Looman",
+    "given": "Caspar",
+    "ini": "C"
+   },
+   {
+    "family": "Dirven",
+    "given": "Clemens",
+    "ini": "C"
+   },
+   {
+    "family": "Vincent",
+    "given": "Arnaud",
+    "ini": "A"
+   }
+  ],
+  "title": "Long-term evaluation of cognition after glioma surgery in eloquent areas",
+  "journal": "Journal of Neuro-Oncology",
+  "abbr": "J Neurooncol",
+  "year": 2014,
+  "volume": "116",
+  "issue": "1",
+  "pages": "153-160",
+  "doi": "10.1007/s11060-013-1275-3",
+  "pmid": "",
+  "language": "en"
+ },
+ "core20": {
+  "key": "core20",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Schei",
+    "given": "Stine",
+    "ini": "S"
+   },
+   {
+    "family": "Solheim",
+    "given": "Ole",
+    "ini": "O"
+   },
+   {
+    "family": "Salvesen",
+    "given": "Øyvind",
+    "ini": "Ø"
+   },
+   {
+    "family": "Hansen",
+    "given": "Tor Ivar",
+    "ini": "TI"
+   },
+   {
+    "family": "Sagberg",
+    "given": "Lisa Millgård",
+    "ini": "LM"
+   }
+  ],
+  "title": "Patient-reported cognitive function before and after glioma surgery",
+  "journal": "Acta Neurochirurgica",
+  "abbr": "Acta Neurochir (Wien)",
+  "year": 2022,
+  "volume": "164",
+  "issue": "8",
+  "pages": "2009-2019",
+  "doi": "10.1007/s00701-022-05261-3",
+  "pmid": "",
+  "language": "en"
+ },
+ "core21": {
+  "key": "core21",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Gempt",
+    "given": "Jens",
+    "ini": "J"
+   },
+   {
+    "family": "Krieg",
+    "given": "Sandro M.",
+    "ini": "SM"
+   },
+   {
+    "family": "Hüttinger",
+    "given": "Stefanie",
+    "ini": "S"
+   },
+   {
+    "family": "Buchmann",
+    "given": "Niels",
+    "ini": "N"
+   },
+   {
+    "family": "Ryang",
+    "given": "Yu-Mi",
+    "ini": "YM"
+   },
+   {
+    "family": "Shiban",
+    "given": "Ehab",
+    "ini": "E"
+   },
+   {
+    "family": "Meyer",
+    "given": "Bernhard",
+    "ini": "B"
+   },
+   {
+    "family": "Zimmer",
+    "given": "Claus",
+    "ini": "C"
+   },
+   {
+    "family": "Förschler",
+    "given": "Annette",
+    "ini": "A"
+   },
+   {
+    "family": "Ringel",
+    "given": "Florian",
+    "ini": "F"
+   }
+  ],
+  "title": "Postoperative ischemic changes after glioma resection identified by diffusion-weighted magnetic resonance imaging and their association with intraoperative motor evoked potentials",
+  "journal": "Journal of Neurosurgery",
+  "abbr": "J Neurosurg",
+  "year": 2013,
+  "volume": "119",
+  "issue": "4",
+  "pages": "829-836",
+  "doi": "10.3171/2013.5.jns121981",
+  "pmid": "",
+  "language": "en"
+ },
+ "core22": {
+  "key": "core22",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Gempt",
+    "given": "Jens",
+    "ini": "J"
+   },
+   {
+    "family": "Förschler",
+    "given": "Annette",
+    "ini": "A"
+   },
+   {
+    "family": "Buchmann",
+    "given": "Niels",
+    "ini": "N"
+   },
+   {
+    "family": "Pape",
+    "given": "Haiko",
+    "ini": "H"
+   },
+   {
+    "family": "Ryang",
+    "given": "Yu-Mi",
+    "ini": "YM"
+   },
+   {
+    "family": "Krieg",
+    "given": "Sandro M.",
+    "ini": "SM"
+   },
+   {
+    "family": "Zimmer",
+    "given": "Claus",
+    "ini": "C"
+   },
+   {
+    "family": "Meyer",
+    "given": "Bernhard",
+    "ini": "B"
+   },
+   {
+    "family": "Ringel",
+    "given": "Florian",
+    "ini": "F"
+   }
+  ],
+  "title": "Postoperative ischemic changes following resection of newly diagnosed and recurrent gliomas and their clinical relevance",
+  "journal": "Journal of Neurosurgery",
+  "abbr": "J Neurosurg",
+  "year": 2013,
+  "volume": "118",
+  "issue": "4",
+  "pages": "801-808",
+  "doi": "10.3171/2012.12.jns12125",
+  "pmid": "",
+  "language": "en"
+ },
+ "core23": {
+  "key": "core23",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Baumgarten",
+    "given": "Peter",
+    "ini": "P"
+   },
+   {
+    "family": "Quick-Weller",
+    "given": "Johanna",
+    "ini": "J"
+   },
+   {
+    "family": "Gessler",
+    "given": "Florian",
+    "ini": "F"
+   },
+   {
+    "family": "Wagner",
+    "given": "Marlies",
+    "ini": "M"
+   },
+   {
+    "family": "Tichy",
+    "given": "Julia",
+    "ini": "J"
+   },
+   {
+    "family": "Forster",
+    "given": "Marie-Therese",
+    "ini": "MT"
+   },
+   {
+    "family": "Foerch",
+    "given": "Christian",
+    "ini": "C"
+   },
+   {
+    "family": "Seifert",
+    "given": "Volker",
+    "ini": "V"
+   },
+   {
+    "family": "Mittelbronn",
+    "given": "Michel",
+    "ini": "M"
+   },
+   {
+    "family": "Senft",
+    "given": "Christian",
+    "ini": "C"
+   }
+  ],
+  "title": "Pre- and early postoperative GFAP serum levels in glioma and brain metastases",
+  "journal": "Journal of Neuro-Oncology",
+  "abbr": "J Neurooncol",
+  "year": 2018,
+  "volume": "139",
+  "issue": "3",
+  "pages": "541-546",
+  "doi": "10.1007/s11060-018-2898-1",
+  "pmid": "",
+  "language": "en"
+ },
+ "core24": {
+  "key": "core24",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Bommakanti",
+    "given": "Kalyan",
+    "ini": "K"
+   },
+   {
+    "family": "Somayajula",
+    "given": "Shanmukhi",
+    "ini": "S"
+   },
+   {
+    "family": "Suvarna",
+    "given": "Alladi",
+    "ini": "A"
+   },
+   {
+    "family": "Purohit",
+    "given": "Aniruddh Kumar",
+    "ini": "AK"
+   },
+   {
+    "family": "Mekala",
+    "given": "Shailaja",
+    "ini": "S"
+   },
+   {
+    "family": "Chadalawadi",
+    "given": "Santoshi Kumari",
+    "ini": "SK"
+   },
+   {
+    "family": "Gaddamanugu",
+    "given": "Padmaja",
+    "ini": "P"
+   }
+  ],
+  "title": "Pre-operative and post-operative cognitive deficits in patients with supratentorial meningiomas",
+  "journal": "Clinical Neurology and Neurosurgery",
+  "abbr": "Clin Neurol Neurosurg",
+  "year": 2016,
+  "volume": "143",
+  "issue": "",
+  "pages": "150-158",
+  "doi": "10.1016/j.clineuro.2016.02.033",
+  "pmid": "",
+  "language": "en"
+ },
+ "core25": {
+  "key": "core25",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Huq",
+    "given": "Sakibul",
+    "ini": "S"
+   },
+   {
+    "family": "Khalafallah",
+    "given": "Adham M",
+    "ini": "AM"
+   },
+   {
+    "family": "Jimenez",
+    "given": "Adrian E",
+    "ini": "AE"
+   },
+   {
+    "family": "Gami",
+    "given": "Abhishek",
+    "ini": "A"
+   },
+   {
+    "family": "Lam",
+    "given": "Shravika",
+    "ini": "S"
+   },
+   {
+    "family": "Ruiz-Cardozo",
+    "given": "Miguel A",
+    "ini": "MA"
+   },
+   {
+    "family": "Oliveira",
+    "given": "Leonardo A P",
+    "ini": "LAP"
+   },
+   {
+    "family": "Mukherjee",
+    "given": "Debraj",
+    "ini": "D"
+   }
+  ],
+  "title": "Predicting postoperative outcomes in brain tumor patients with a 5-factor modified frailty index",
+  "journal": "Neurosurgery",
+  "abbr": "Neurosurgery",
+  "year": 2021,
+  "volume": "88",
+  "issue": "1",
+  "pages": "147-154",
+  "doi": "10.1093/neuros/nyaa335",
+  "pmid": "",
+  "language": "en"
+ },
+ "core26": {
+  "key": "core26",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Tucha",
+    "given": "Oliver",
+    "ini": "O"
+   },
+   {
+    "family": "Smely",
+    "given": "Christian",
+    "ini": "C"
+   },
+   {
+    "family": "Preier",
+    "given": "Michael",
+    "ini": "M"
+   },
+   {
+    "family": "Becker",
+    "given": "Georg",
+    "ini": "G"
+   },
+   {
+    "family": "Paul",
+    "given": "Geraldine M.",
+    "ini": "GM"
+   },
+   {
+    "family": "Lange",
+    "given": "Klaus W.",
+    "ini": "KW"
+   }
+  ],
+  "title": "Preoperative and postoperative cognitive functioning in patients with frontal meningiomas",
+  "journal": "Journal of Neurosurgery",
+  "abbr": "J Neurosurg",
+  "year": 2003,
+  "volume": "98",
+  "issue": "1",
+  "pages": "21-31",
+  "doi": "10.3171/jns.2003.98.1.0021",
+  "pmid": "",
+  "language": "en"
+ },
+ "core27": {
+  "key": "core27",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Piperi",
+    "given": "Christina",
+    "ini": "C"
+   },
+   {
+    "family": "Samaras",
+    "given": "Vassilis",
+    "ini": "V"
+   },
+   {
+    "family": "Levidou",
+    "given": "Georgia",
+    "ini": "G"
+   },
+   {
+    "family": "Kavantzas",
+    "given": "Nikolaos",
+    "ini": "N"
+   },
+   {
+    "family": "Boviatsis",
+    "given": "Efstathios",
+    "ini": "E"
+   },
+   {
+    "family": "Petraki",
+    "given": "Kalliopi",
+    "ini": "K"
+   },
+   {
+    "family": "Grivas",
+    "given": "Athanasios",
+    "ini": "A"
+   },
+   {
+    "family": "Barbatis",
+    "given": "Calypso",
+    "ini": "C"
+   },
+   {
+    "family": "Varsos",
+    "given": "Vassilis",
+    "ini": "V"
+   },
+   {
+    "family": "Patsouris",
+    "given": "Efstratios",
+    "ini": "E"
+   },
+   {
+    "family": "Korkolopoulou",
+    "given": "Penelope",
+    "ini": "P"
+   }
+  ],
+  "title": "Prognostic significance of IL-8-STAT-3 pathway in astrocytomas: Correlation with IL-6, VEGF and microvessel morphometry",
+  "journal": "Cytokine",
+  "abbr": "Cytokine",
+  "year": 2011,
+  "volume": "55",
+  "issue": "3",
+  "pages": "387-395",
+  "doi": "10.1016/j.cyto.2011.05.012",
+  "pmid": "",
+  "language": "en"
+ },
+ "core28": {
+  "key": "core28",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Stranjalis",
+    "given": "George",
+    "ini": "G"
+   },
+   {
+    "family": "Korfias",
+    "given": "Stefanos",
+    "ini": "S"
+   },
+   {
+    "family": "Psachoulia",
+    "given": "Christina",
+    "ini": "C"
+   },
+   {
+    "family": "Boviatsis",
+    "given": "Efstathios",
+    "ini": "E"
+   },
+   {
+    "family": "Kouyialis",
+    "given": "Andreas",
+    "ini": "A"
+   },
+   {
+    "family": "Protopappa",
+    "given": "Despina",
+    "ini": "D"
+   },
+   {
+    "family": "Sakas",
+    "given": "Damianos E",
+    "ini": "DE"
+   }
+  ],
+  "title": "Serum S-100B as an indicator of early postoperative deterioration after meningioma surgery",
+  "journal": "Clinical Chemistry",
+  "abbr": "Clin Chem",
+  "year": 2005,
+  "volume": "51",
+  "issue": "1",
+  "pages": "202-207",
+  "doi": "10.1373/clinchem.2004.039719",
+  "pmid": "",
+  "language": "en"
+ },
+ "core29": {
+  "key": "core29",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Stewart",
+    "given": "Patricia A.",
+    "ini": "PA"
+   },
+   {
+    "family": "Hayakawa",
+    "given": "Kay",
+    "ini": "K"
+   },
+   {
+    "family": "Farrell",
+    "given": "Catherine L.",
+    "ini": "CL"
+   },
+   {
+    "family": "Del Maestro",
+    "given": "Rolando F.",
+    "ini": "RF"
+   }
+  ],
+  "title": "Quantitative study of microvessel ultrastructure in human peritumoral brain tissue",
+  "journal": "Journal of Neurosurgery",
+  "abbr": "J Neurosurg",
+  "year": 1987,
+  "volume": "67",
+  "issue": "5",
+  "pages": "697-705",
+  "doi": "10.3171/jns.1987.67.5.0697",
+  "pmid": "",
+  "language": "en"
+ },
+ "core30": {
+  "key": "core30",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Hoffermann",
+    "given": "Markus",
+    "ini": "M"
+   },
+   {
+    "family": "Bruckmann",
+    "given": "Lukas",
+    "ini": "L"
+   },
+   {
+    "family": "Mahdy Ali",
+    "given": "Kariem",
+    "ini": "K"
+   },
+   {
+    "family": "Zaar",
+    "given": "Karla",
+    "ini": "K"
+   },
+   {
+    "family": "Avian",
+    "given": "Alexander",
+    "ini": "A"
+   },
+   {
+    "family": "von Campe",
+    "given": "Gord",
+    "ini": "G"
+   }
+  ],
+  "title": "Pre- and postoperative neurocognitive deficits in brain tumor patients assessed by a computer based screening test",
+  "journal": "Journal of Clinical Neuroscience",
+  "abbr": "J Clin Neurosci",
+  "year": 2017,
+  "volume": "36",
+  "issue": "",
+  "pages": "31-36",
+  "doi": "10.1016/j.jocn.2016.10.030",
+  "pmid": "",
+  "language": "en"
+ },
+ "core31": {
+  "key": "core31",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Chen",
+    "given": "Hong",
+    "ini": "H"
+   },
+   {
+    "family": "Jiang",
+    "given": "Hong",
+    "ini": "H"
+   },
+   {
+    "family": "Chen",
+    "given": "Beini",
+    "ini": "B"
+   },
+   {
+    "family": "Fan",
+    "given": "Liuliu",
+    "ini": "L"
+   },
+   {
+    "family": "Shi",
+    "given": "Weilin",
+    "ini": "W"
+   },
+   {
+    "family": "Jin",
+    "given": "Yufeng",
+    "ini": "Y"
+   },
+   {
+    "family": "Ren",
+    "given": "Xuefang",
+    "ini": "X"
+   },
+   {
+    "family": "Lang",
+    "given": "Liwei",
+    "ini": "L"
+   },
+   {
+    "family": "Zhu",
+    "given": "Fengping",
+    "ini": "F"
+   }
+  ],
+  "title": "The incidence and predictors of postoperative delirium after brain tumor resection in adults: a cross-sectional survey",
+  "journal": "World Neurosurgery",
+  "abbr": "World Neurosurg",
+  "year": 2020,
+  "volume": "140",
+  "issue": "",
+  "pages": "e129-e139",
+  "doi": "10.1016/j.wneu.2020.04.195",
+  "pmid": "",
+  "language": "en"
+ },
+ "core32": {
+  "key": "core32",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Khan",
+    "given": "Raja B.",
+    "ini": "RB"
+   },
+   {
+    "family": "Gutin",
+    "given": "Philip H.",
+    "ini": "PH"
+   },
+   {
+    "family": "Rai",
+    "given": "Shesh N.",
+    "ini": "SN"
+   },
+   {
+    "family": "Zhang",
+    "given": "Lijun",
+    "ini": "L"
+   },
+   {
+    "family": "Krol",
+    "given": "George",
+    "ini": "G"
+   },
+   {
+    "family": "DeAngelis",
+    "given": "Lisa M.",
+    "ini": "LM"
+   }
+  ],
+  "title": "Use of diffusion weighted MRI in predicting early postoperative outcome of new neurological deficits after brain tumor resection",
+  "journal": "Neurosurgery",
+  "abbr": "Neurosurgery",
+  "year": 2006,
+  "volume": "59",
+  "issue": "1",
+  "pages": "60-66",
+  "doi": "10.1227/01.neu.0000219218.43128.fc",
+  "pmid": "",
+  "language": "en"
+ },
+ "core33": {
+  "key": "core33",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Machein",
+    "given": "Márcia R.",
+    "ini": "MR"
+   },
+   {
+    "family": "Kullmer",
+    "given": "Johannes",
+    "ini": "J"
+   },
+   {
+    "family": "Fiebich",
+    "given": "Bernd L.",
+    "ini": "BL"
+   },
+   {
+    "family": "Plate",
+    "given": "Karl H.",
+    "ini": "KH"
+   },
+   {
+    "family": "Warnke",
+    "given": "Peter C.",
+    "ini": "PC"
+   }
+  ],
+  "title": "Vascular endothelial growth factor expression, vascular volume, and capillary permeability in human brain tumors",
+  "journal": "Neurosurgery",
+  "abbr": "Neurosurgery",
+  "year": 1999,
+  "volume": "44",
+  "issue": "4",
+  "pages": "732-740",
+  "doi": "10.1097/00006123-199904000-00022",
+  "pmid": "",
+  "language": "en"
+ },
+ "core34": {
+  "key": "core34",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Zangrossi",
+    "given": "Andrea",
+    "ini": "A"
+   },
+   {
+    "family": "Silvestri",
+    "given": "Erica",
+    "ini": "E"
+   },
+   {
+    "family": "Bisio",
+    "given": "Marta",
+    "ini": "M"
+   },
+   {
+    "family": "Bertoldo",
+    "given": "Alessandra",
+    "ini": "A"
+   },
+   {
+    "family": "De Pellegrin",
+    "given": "Serena",
+    "ini": "S"
+   },
+   {
+    "family": "Vallesi",
+    "given": "Antonino",
+    "ini": "A"
+   },
+   {
+    "family": "Della Puppa",
+    "given": "Alessandro",
+    "ini": "A"
+   },
+   {
+    "family": "D'Avella",
+    "given": "Domenico",
+    "ini": "D"
+   },
+   {
+    "family": "Denaro",
+    "given": "Luca",
+    "ini": "L"
+   },
+   {
+    "family": "Scienza",
+    "given": "Renato",
+    "ini": "R"
+   },
+   {
+    "family": "Mondini",
+    "given": "Sara",
+    "ini": "S"
+   },
+   {
+    "family": "Semenza",
+    "given": "Carlo",
+    "ini": "C"
+   },
+   {
+    "family": "Corbetta",
+    "given": "Maurizio",
+    "ini": "M"
+   }
+  ],
+  "title": "Presurgical predictors of early cognitive outcome after brain tumor resection in glioma patients",
+  "journal": "NeuroImage: Clinical",
+  "abbr": "Neuroimage Clin",
+  "year": 2022,
+  "volume": "36",
+  "issue": "",
+  "pages": "103219",
+  "doi": "10.1016/j.nicl.2022.103219",
+  "pmid": "",
+  "language": "en"
+ },
+ "core35": {
+  "key": "core35",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Barberis",
+    "given": "Marion",
+    "ini": "M"
+   },
+   {
+    "family": "Poisson",
+    "given": "Isabelle",
+    "ini": "I"
+   },
+   {
+    "family": "Facque",
+    "given": "Valentine",
+    "ini": "V"
+   },
+   {
+    "family": "Letrange",
+    "given": "Sophie",
+    "ini": "S"
+   },
+   {
+    "family": "Prevost-Tarabon",
+    "given": "Cécile",
+    "ini": "C"
+   },
+   {
+    "family": "Houdart",
+    "given": "Emmanuel",
+    "ini": "E"
+   },
+   {
+    "family": "Froelich",
+    "given": "Sébastien",
+    "ini": "S"
+   },
+   {
+    "family": "Levy",
+    "given": "Richard",
+    "ini": "R"
+   },
+   {
+    "family": "Mandonnet",
+    "given": "Emmanuel",
+    "ini": "E"
+   }
+  ],
+  "title": "Group-level stability but individual variability of neurocognitive status after awake resections of right frontal IDH-mutated glioma",
+  "journal": "Scientific Reports",
+  "abbr": "Sci Rep",
+  "year": 2022,
+  "volume": "12",
+  "issue": "1",
+  "pages": "6126",
+  "doi": "10.1038/s41598-022-08702-2",
+  "pmid": "",
+  "language": "en"
+ },
+ "core36": {
+  "key": "core36",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Barzilai",
+    "given": "Ori",
+    "ini": "O"
+   },
+   {
+    "family": "Ben Moshe",
+    "given": "Shlomit",
+    "ini": "S"
+   },
+   {
+    "family": "Sitt",
+    "given": "Razi",
+    "ini": "R"
+   },
+   {
+    "family": "Sela",
+    "given": "Gal",
+    "ini": "G"
+   },
+   {
+    "family": "Shofty",
+    "given": "Ben",
+    "ini": "B"
+   },
+   {
+    "family": "Ram",
+    "given": "Zvi",
+    "ini": "Z"
+   }
+  ],
+  "title": "Improvement in cognitive function after surgery for low-grade glioma",
+  "journal": "Journal of Neurosurgery",
+  "abbr": "J Neurosurg",
+  "year": 2019,
+  "volume": "130",
+  "issue": "2",
+  "pages": "426-434",
+  "doi": "10.3171/2017.9.jns17658",
+  "pmid": "",
+  "language": "en"
+ },
+ "core37": {
+  "key": "core37",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Capo",
+    "given": "Gabriele",
+    "ini": "G"
+   },
+   {
+    "family": "Skrap",
+    "given": "Miran",
+    "ini": "M"
+   },
+   {
+    "family": "Guarracino",
+    "given": "Ilaria",
+    "ini": "I"
+   },
+   {
+    "family": "Isola",
+    "given": "Miriam",
+    "ini": "M"
+   },
+   {
+    "family": "Battistella",
+    "given": "Claudio",
+    "ini": "C"
+   },
+   {
+    "family": "Ius",
+    "given": "Tamara",
+    "ini": "T"
+   },
+   {
+    "family": "Tomasino",
+    "given": "Barbara",
+    "ini": "B"
+   }
+  ],
+  "title": "Cognitive functions in repeated glioma surgery",
+  "journal": "Cancers",
+  "abbr": "Cancers (Basel)",
+  "year": 2020,
+  "volume": "12",
+  "issue": "5",
+  "pages": "1077",
+  "doi": "10.3390/cancers12051077",
+  "pmid": "",
+  "language": "en"
+ },
+ "core38": {
+  "key": "core38",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Fu",
+    "given": "Wei",
+    "ini": "W"
+   },
+   {
+    "family": "Li",
+    "given": "Yi",
+    "ini": "Y"
+   },
+   {
+    "family": "Liu",
+    "given": "Rui",
+    "ini": "R"
+   },
+   {
+    "family": "Li",
+    "given": "Jingjing",
+    "ini": "J"
+   }
+  ],
+  "title": "Incidence and risk factors of delirium following brain tumor resection: a retrospective national inpatient sample database study",
+  "journal": "World Neurosurgery",
+  "abbr": "World Neurosurg",
+  "year": 2024,
+  "volume": "189",
+  "issue": "",
+  "pages": "e533-e543",
+  "doi": "10.1016/j.wneu.2024.06.108",
+  "pmid": "",
+  "language": "en"
+ },
+ "core39": {
+  "key": "core39",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Gracia",
+    "given": "Isabel",
+    "ini": "I"
+   },
+   {
+    "family": "Fàbregas",
+    "given": "Neus",
+    "ini": "N"
+   },
+   {
+    "family": "Hurtado",
+    "given": "Paola",
+    "ini": "P"
+   },
+   {
+    "family": "De riva",
+    "given": "Nicolás",
+    "ini": "N"
+   },
+   {
+    "family": "Boget",
+    "given": "Teresa",
+    "ini": "T"
+   },
+   {
+    "family": "Casanovas",
+    "given": "Georgina",
+    "ini": "G"
+   },
+   {
+    "family": "Oleaga",
+    "given": "Laura",
+    "ini": "L"
+   },
+   {
+    "family": "Bargalló",
+    "given": "Núria",
+    "ini": "N"
+   },
+   {
+    "family": "González",
+    "given": "Josep",
+    "ini": "J"
+   },
+   {
+    "family": "Rumià",
+    "given": "Jordi",
+    "ini": "J"
+   },
+   {
+    "family": "Tercero",
+    "given": "Javier",
+    "ini": "J"
+   },
+   {
+    "family": "García-orellana",
+    "given": "Marta",
+    "ini": "M"
+   },
+   {
+    "family": "Carrero",
+    "given": "Enrique",
+    "ini": "E"
+   },
+   {
+    "family": "Pujol-fontrodona",
+    "given": "Gabriel",
+    "ini": "G"
+   },
+   {
+    "family": "Cabedo",
+    "given": "Gemma",
+    "ini": "G"
+   },
+   {
+    "family": "Pujol-ayach",
+    "given": "Eugenia",
+    "ini": "E"
+   },
+   {
+    "family": "Valero",
+    "given": "Ricard",
+    "ini": "R"
+   }
+  ],
+  "title": "Effect of perioperative magnesium sulfate on neurological outcome in neurosurgical patients: a randomized double-blind controlled trial",
+  "journal": "Minerva Anestesiologica",
+  "abbr": "Minerva Anestesiol",
+  "year": 2025,
+  "volume": "91",
+  "issue": "1-2",
+  "pages": "45-57",
+  "doi": "10.23736/s0375-9393.24.18401-5",
+  "pmid": "40035733",
+  "language": "en"
+ },
+ "core40": {
+  "key": "core40",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Gu",
+    "given": "Wan-Jie",
+    "ini": "WJ"
+   },
+   {
+    "family": "Zhou",
+    "given": "Jian-Xin",
+    "ini": "JX"
+   },
+   {
+    "family": "Ji",
+    "given": "Run-Qing",
+    "ini": "RQ"
+   },
+   {
+    "family": "Zhou",
+    "given": "Lu-Yang",
+    "ini": "LY"
+   },
+   {
+    "family": "Wang",
+    "given": "Chun-Mei",
+    "ini": "CM"
+   }
+  ],
+  "title": "Incidence, risk factors, and consequences of emergence delirium after elective brain tumor resection",
+  "journal": "The Surgeon",
+  "abbr": "Surgeon",
+  "year": 2022,
+  "volume": "20",
+  "issue": "5",
+  "pages": "e214-e220",
+  "doi": "10.1016/j.surge.2021.09.005",
+  "pmid": "",
+  "language": "en"
+ },
+ "core41": {
+  "key": "core41",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Hernández-Palazón",
+    "given": "Joaquín",
+    "ini": "J"
+   },
+   {
+    "family": "Fuentes-García",
+    "given": "Diego",
+    "ini": "D"
+   },
+   {
+    "family": "Doménech-Asensi",
+    "given": "Paloma",
+    "ini": "P"
+   },
+   {
+    "family": "Burguillos-López",
+    "given": "Sebastián",
+    "ini": "S"
+   },
+   {
+    "family": "García-Ferreira",
+    "given": "Joaquín",
+    "ini": "J"
+   },
+   {
+    "family": "Falcón-Araña",
+    "given": "Luis",
+    "ini": "L"
+   },
+   {
+    "family": "Piqueras-Pérez",
+    "given": "Claudio",
+    "ini": "C"
+   }
+  ],
+  "title": "A dose-response relationship study of hypertonic saline on brain relaxation during supratentorial brain tumour craniotomy",
+  "journal": "British Journal of Neurosurgery",
+  "abbr": "Br J Neurosurg",
+  "year": 2018,
+  "volume": "32",
+  "issue": "6",
+  "pages": "619-627",
+  "doi": "10.1080/02688697.2018.1508640",
+  "pmid": "",
+  "language": "en"
+ },
+ "core42": {
+  "key": "core42",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Ravindranath",
+    "given": "Sreeja",
+    "ini": "S"
+   },
+   {
+    "family": "Hrishi",
+    "given": "Ajay Prasad",
+    "ini": "AP"
+   },
+   {
+    "family": "Praveen",
+    "given": "Ranganatha",
+    "ini": "R"
+   },
+   {
+    "family": "Sethuraman",
+    "given": "Manikandan",
+    "ini": "M"
+   },
+   {
+    "family": "Keshavapisharady",
+    "given": "Krishnakumar",
+    "ini": "K"
+   },
+   {
+    "family": "Madhusoodanan",
+    "given": "UK",
+    "ini": "U"
+   }
+  ],
+  "title": "The effect of total intravenous anesthesia and inhalational anesthesia on the markers of neuronal and systemic inflammation in patients undergoing resection of supratentorial gliomas (TINSI trial): study protocol for a randomized controlled trial",
+  "journal": "Neurology India",
+  "abbr": "Neurol India",
+  "year": 2025,
+  "volume": "73",
+  "issue": "4",
+  "pages": "764-769",
+  "doi": "10.4103/neurol-india.neurol-india-d-24-00488",
+  "pmid": "",
+  "language": "en"
+ },
+ "core43": {
+  "key": "core43",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Huang",
+    "given": "Hua-Wei",
+    "ini": "HW"
+   },
+   {
+    "family": "Yan",
+    "given": "Li-Mei",
+    "ini": "LM"
+   },
+   {
+    "family": "Yang",
+    "given": "Yan-Lin",
+    "ini": "YL"
+   },
+   {
+    "family": "He",
+    "given": "Xuan",
+    "ini": "X"
+   },
+   {
+    "family": "Sun",
+    "given": "Xiu-Mei",
+    "ini": "XM"
+   },
+   {
+    "family": "Wang",
+    "given": "Yu-Mei",
+    "ini": "YM"
+   },
+   {
+    "family": "Zhang",
+    "given": "Guo-Bin",
+    "ini": "GB"
+   },
+   {
+    "family": "Zhou",
+    "given": "Jian-Xin",
+    "ini": "JX"
+   }
+  ],
+  "title": "Bi-frontal pneumocephalus is an independent risk factor for early postoperative agitation in adult patients admitted to intensive care unit after elective craniotomy for brain tumor: A prospective cohort study",
+  "journal": "PLOS ONE",
+  "abbr": "PLoS One",
+  "year": 2018,
+  "volume": "13",
+  "issue": "7",
+  "pages": "e0201064",
+  "doi": "10.1371/journal.pone.0201064",
+  "pmid": "",
+  "language": "en"
+ },
+ "core44": {
+  "key": "core44",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Jiang",
+    "given": "Ze",
+    "ini": "Z"
+   },
+   {
+    "family": "Wu",
+    "given": "Youxuan",
+    "ini": "Y"
+   },
+   {
+    "family": "Liang",
+    "given": "Fa",
+    "ini": "F"
+   },
+   {
+    "family": "Jian",
+    "given": "Minyu",
+    "ini": "M"
+   },
+   {
+    "family": "Liu",
+    "given": "Haiyang",
+    "ini": "H"
+   },
+   {
+    "family": "Mei",
+    "given": "Hongxun",
+    "ini": "H"
+   },
+   {
+    "family": "Han",
+    "given": "Ruquan",
+    "ini": "R"
+   }
+  ],
+  "title": "Brain relaxation using desflurane anesthesia and total intravenous anesthesia in patients undergoing craniotomy for supratentorial tumors: a randomized controlled study",
+  "journal": "BMC Anesthesiology",
+  "abbr": "BMC Anesthesiol",
+  "year": 2023,
+  "volume": "23",
+  "issue": "1",
+  "pages": "15",
+  "doi": "10.1186/s12871-023-01970-z",
+  "pmid": "",
+  "language": "en"
+ },
+ "core45": {
+  "key": "core45",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Favre",
+    "given": "J. B.",
+    "ini": "JB"
+   },
+   {
+    "family": "Gardaz",
+    "given": "J. P.",
+    "ini": "JP"
+   },
+   {
+    "family": "Ravussin",
+    "given": "P.",
+    "ini": "P"
+   }
+  ],
+  "title": "Effect of clonidine on ICP and on the hemodynamic responses to nociceptive stimuli in patients with brain tumors",
+  "journal": "Journal of Neurosurgical Anesthesiology",
+  "abbr": "J Neurosurg Anesthesiol",
+  "year": 1995,
+  "volume": "7",
+  "issue": "3",
+  "pages": "159-167",
+  "doi": "10.1097/00008506-199507000-00001",
+  "pmid": "",
+  "language": "en"
+ },
+ "core46": {
+  "key": "core46",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Guy",
+    "given": "John",
+    "ini": "J"
+   },
+   {
+    "family": "Hindman",
+    "given": "Bradley J.",
+    "ini": "BJ"
+   },
+   {
+    "family": "Baker",
+    "given": "Kristy Z.",
+    "ini": "KZ"
+   },
+   {
+    "family": "Borel",
+    "given": "Cecil O.",
+    "ini": "CO"
+   },
+   {
+    "family": "Maktabi",
+    "given": "Mazen",
+    "ini": "M"
+   },
+   {
+    "family": "Ostapkovich",
+    "given": "Noeleen",
+    "ini": "N"
+   },
+   {
+    "family": "Kirchner",
+    "given": "Jerry",
+    "ini": "J"
+   },
+   {
+    "family": "Todd",
+    "given": "Michael M.",
+    "ini": "MM"
+   },
+   {
+    "family": "Fogarty-Mack",
+    "given": "Patricia",
+    "ini": "P"
+   },
+   {
+    "family": "Yancy",
+    "given": "Verna",
+    "ini": "V"
+   },
+   {
+    "family": "Sokoll",
+    "given": "Martin D.",
+    "ini": "MD"
+   },
+   {
+    "family": "McAllister",
+    "given": "Alice",
+    "ini": "A"
+   },
+   {
+    "family": "Roland",
+    "given": "Carl",
+    "ini": "C"
+   },
+   {
+    "family": "Young",
+    "given": "William L.",
+    "ini": "WL"
+   },
+   {
+    "family": "Warner",
+    "given": "David S.",
+    "ini": "DS"
+   }
+  ],
+  "title": "Comparison of remifentanil and fentanyl in patients undergoing craniotomy for supratentorial space-occupying lesions",
+  "journal": "Anesthesiology",
+  "abbr": "Anesthesiology",
+  "year": 1997,
+  "volume": "86",
+  "issue": "3",
+  "pages": "514-524",
+  "doi": "10.1097/00000542-199703000-00002",
+  "pmid": "",
+  "language": "en"
+ },
+ "core47": {
+  "key": "core47",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Jitsinthunun",
+    "given": "Thanawut",
+    "ini": "T"
+   },
+   {
+    "family": "Raksakietisak",
+    "given": "Manee",
+    "ini": "M"
+   },
+   {
+    "family": "Pantubtim",
+    "given": "Chanitda",
+    "ini": "C"
+   },
+   {
+    "family": "Mahatnirunkul",
+    "given": "Porntip",
+    "ini": "P"
+   }
+  ],
+  "title": "Effects of magnesium sulfate on intraoperative blood loss and anesthetic requirement in meningioma patients undergoing craniotomy with tumor removal: a prospective randomized study",
+  "journal": "Journal of Neuroanaesthesiology and Critical Care",
+  "abbr": "J Neuroanaesth Crit Care",
+  "year": 2022,
+  "volume": "9",
+  "issue": "3",
+  "pages": "168-176",
+  "doi": "10.1055/s-0042-1750692",
+  "pmid": "",
+  "language": "en"
+ },
+ "core48": {
+  "key": "core48",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Sriganesh",
+    "given": "Kamath",
+    "ini": "K"
+   },
+   {
+    "family": "Singh",
+    "given": "Georgene",
+    "ini": "G"
+   },
+   {
+    "family": "Bidkar",
+    "given": "Prasanna Udupi",
+    "ini": "PU"
+   },
+   {
+    "family": "Sethuraman",
+    "given": "Manikandan",
+    "ini": "M"
+   },
+   {
+    "family": "Moningi",
+    "given": "Srilata",
+    "ini": "S"
+   }
+  ],
+  "title": "Non-opioid versus Opioid Peri-operative Analgesia In Neurosurgery (NOPAIN): Study protocol for a multi-centric randomised controlled trial",
+  "journal": "Indian Journal of Anaesthesia",
+  "abbr": "Indian J Anaesth",
+  "year": 2023,
+  "volume": "67",
+  "issue": "10",
+  "pages": "920-926",
+  "doi": "10.4103/ija.ija_610_23",
+  "pmid": "",
+  "language": "en"
+ },
+ "core49": {
+  "key": "core49",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Li",
+    "given": "Shu",
+    "ini": "S"
+   },
+   {
+    "family": "Li",
+    "given": "Ruowen",
+    "ini": "R"
+   },
+   {
+    "family": "Li",
+    "given": "Muhan",
+    "ini": "M"
+   },
+   {
+    "family": "Cui",
+    "given": "Qianyu",
+    "ini": "Q"
+   },
+   {
+    "family": "Zhang",
+    "given": "Xingyue",
+    "ini": "X"
+   },
+   {
+    "family": "Ma",
+    "given": "Tingting",
+    "ini": "T"
+   },
+   {
+    "family": "Wang",
+    "given": "Dexiang",
+    "ini": "D"
+   },
+   {
+    "family": "Zeng",
+    "given": "Min",
+    "ini": "M"
+   },
+   {
+    "family": "Li",
+    "given": "Hao",
+    "ini": "H"
+   },
+   {
+    "family": "Bao",
+    "given": "Zhaoshi",
+    "ini": "Z"
+   },
+   {
+    "family": "Peng",
+    "given": "Yuming",
+    "ini": "Y"
+   },
+   {
+    "family": "Sessler",
+    "given": "Daniel I.",
+    "ini": "DI"
+   }
+  ],
+  "title": "Dexmedetomidine administration during brain tumour resection for prevention of postoperative delirium: a randomised trial",
+  "journal": "British Journal of Anaesthesia",
+  "abbr": "Br J Anaesth",
+  "year": 2023,
+  "volume": "130",
+  "issue": "2",
+  "pages": "e307-e316",
+  "doi": "10.1016/j.bja.2022.10.041",
+  "pmid": "",
+  "language": "en"
+ },
+ "core50": {
+  "key": "core50",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Lu",
+    "given": "Zhi-hong",
+    "ini": "ZH"
+   },
+   {
+    "family": "Bai",
+    "given": "Xiao-guang",
+    "ini": "XG"
+   },
+   {
+    "family": "Xiong",
+    "given": "Li-ze",
+    "ini": "LZ"
+   },
+   {
+    "family": "Wang",
+    "given": "Yong-hui",
+    "ini": "YH"
+   },
+   {
+    "family": "Wang",
+    "given": "Yi",
+    "ini": "Y"
+   },
+   {
+    "family": "Wang",
+    "given": "Qiang",
+    "ini": "Q"
+   }
+  ],
+  "title": "Effect of electroacupuncture preconditioning on serum S100β and NSE in patients undergoing craniocerebral tumor resection",
+  "journal": "Chinese Journal of Integrative Medicine",
+  "abbr": "Chin J Integr Med",
+  "year": 2010,
+  "volume": "16",
+  "issue": "3",
+  "pages": "229-233",
+  "doi": "10.1007/s11655-010-0229-6",
+  "pmid": "",
+  "language": "en"
+ },
+ "core51": {
+  "key": "core51",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Mahajan",
+    "given": "Charu",
+    "ini": "C"
+   },
+   {
+    "family": "Mishra",
+    "given": "Rajeeb Kumar",
+    "ini": "RK"
+   },
+   {
+    "family": "Jena",
+    "given": "Bhagya Ranjan",
+    "ini": "BR"
+   },
+   {
+    "family": "Kapoor",
+    "given": "Indu",
+    "ini": "I"
+   },
+   {
+    "family": "Prabhakar",
+    "given": "Hemanshu",
+    "ini": "H"
+   },
+   {
+    "family": "Rath",
+    "given": "Girija Prasad",
+    "ini": "GP"
+   },
+   {
+    "family": "Chaturvedi",
+    "given": "Arvind",
+    "ini": "A"
+   }
+  ],
+  "title": "Effect of magnesium and lignocaine on post-craniotomy pain: A comparative, randomized, double blind, placebo-controlled study",
+  "journal": "Saudi Journal of Anaesthesia",
+  "abbr": "Saudi J Anaesth",
+  "year": 2019,
+  "volume": "13",
+  "issue": "4",
+  "pages": "299-305",
+  "doi": "10.4103/sja.sja_837_18",
+  "pmid": "",
+  "language": "en"
+ },
+ "core52": {
+  "key": "core52",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Meskal",
+    "given": "Ikram",
+    "ini": "I"
+   },
+   {
+    "family": "Gehring",
+    "given": "Karin",
+    "ini": "K"
+   },
+   {
+    "family": "van der Linden",
+    "given": "Sophie D.",
+    "ini": "SD"
+   },
+   {
+    "family": "Rutten",
+    "given": "Geert-Jan M.",
+    "ini": "GJM"
+   },
+   {
+    "family": "Sitskoorn",
+    "given": "Margriet M.",
+    "ini": "MM"
+   }
+  ],
+  "title": "Cognitive improvement in meningioma patients after surgery: clinical relevance of computerized testing",
+  "journal": "Journal of Neuro-Oncology",
+  "abbr": "J Neurooncol",
+  "year": 2015,
+  "volume": "121",
+  "issue": "3",
+  "pages": "617-625",
+  "doi": "10.1007/s11060-014-1679-8",
+  "pmid": "",
+  "language": "en"
+ },
+ "core53": {
+  "key": "core53",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Mirrahimi",
+    "given": "Bahador",
+    "ini": "B"
+   },
+   {
+    "family": "Mortazavi",
+    "given": "Abolghasem",
+    "ini": "A"
+   },
+   {
+    "family": "Nouri",
+    "given": "Mohsen",
+    "ini": "M"
+   },
+   {
+    "family": "Ketabchi",
+    "given": "Ebrahim",
+    "ini": "E"
+   },
+   {
+    "family": "Amirjamshidi",
+    "given": "Abass",
+    "ini": "A"
+   },
+   {
+    "family": "Ashouri",
+    "given": "Asieh",
+    "ini": "A"
+   },
+   {
+    "family": "Khajavi",
+    "given": "Mohammadreza",
+    "ini": "M"
+   },
+   {
+    "family": "Mojtahedzadeh",
+    "given": "Mojtaba",
+    "ini": "M"
+   }
+  ],
+  "title": "Effect of magnesium on functional outcome and paraclinical parameters of patients undergoing supratentorial craniotomy for brain tumors: a randomized controlled trial",
+  "journal": "Acta Neurochirurgica",
+  "abbr": "Acta Neurochir (Wien)",
+  "year": 2015,
+  "volume": "157",
+  "issue": "6",
+  "pages": "985-991",
+  "doi": "10.1007/s00701-015-2376-x",
+  "pmid": "",
+  "language": "en"
+ },
+ "core54": {
+  "key": "core54",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Mousa",
+    "given": "Sherif Abdo",
+    "ini": "SA"
+   },
+   {
+    "family": "Elmaged",
+    "given": "Nabil abd Elraof abd",
+    "ini": "NAEA"
+   },
+   {
+    "family": "Ramadan",
+    "given": "Tarek Habeeb",
+    "ini": "TH"
+   },
+   {
+    "family": "Alghareeb",
+    "given": "Nawal Abdalgalil",
+    "ini": "NA"
+   },
+   {
+    "family": "Daif",
+    "given": "Ahmed Attia",
+    "ini": "AA"
+   }
+  ],
+  "title": "Cerebral hemodynamics and oxygenation during brain tumor resection: A comparative study between different types of infusates",
+  "journal": "Egyptian Journal of Anaesthesia",
+  "abbr": "Egypt J Anaesth",
+  "year": 2011,
+  "volume": "27",
+  "issue": "2",
+  "pages": "67-76",
+  "doi": "10.1016/j.egja.2011.01.005",
+  "pmid": "",
+  "language": "en"
+ },
+ "core55": {
+  "key": "core55",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Peng",
+    "given": "Yuming",
+    "ini": "Y"
+   },
+   {
+    "family": "Zhang",
+    "given": "Wei",
+    "ini": "W"
+   },
+   {
+    "family": "Zhou",
+    "given": "Xiaoli",
+    "ini": "X"
+   },
+   {
+    "family": "Ji",
+    "given": "Yong",
+    "ini": "Y"
+   },
+   {
+    "family": "Kass",
+    "given": "Ira S.",
+    "ini": "IS"
+   },
+   {
+    "family": "Han",
+    "given": "Ruquan",
+    "ini": "R"
+   }
+  ],
+  "title": "Lidocaine did not reduce neuropsychological-cognitive decline in patients 6 months after supratentorial tumor surgery",
+  "journal": "Journal of Neurosurgical Anesthesiology",
+  "abbr": "J Neurosurg Anesthesiol",
+  "year": 2016,
+  "volume": "28",
+  "issue": "1",
+  "pages": "6-13",
+  "doi": "10.1097/ana.0000000000000171",
+  "pmid": "",
+  "language": "en"
+ },
+ "core56": {
+  "key": "core56",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Niki",
+    "given": "Chiharu",
+    "ini": "C"
+   },
+   {
+    "family": "Kumada",
+    "given": "Takatsune",
+    "ini": "T"
+   },
+   {
+    "family": "Maruyama",
+    "given": "Takashi",
+    "ini": "T"
+   },
+   {
+    "family": "Tamura",
+    "given": "Manabu",
+    "ini": "M"
+   },
+   {
+    "family": "Kawamata",
+    "given": "Takakazu",
+    "ini": "T"
+   },
+   {
+    "family": "Muragaki",
+    "given": "Yoshihiro",
+    "ini": "Y"
+   }
+  ],
+  "title": "Primary cognitive factors impaired after glioma surgery and associated brain regions",
+  "journal": "Behavioural Neurology",
+  "abbr": "Behav Neurol",
+  "year": 2020,
+  "volume": "2020",
+  "issue": "",
+  "pages": "7941689",
+  "doi": "10.1155/2020/7941689",
+  "pmid": "",
+  "language": "en"
+ },
+ "core57": {
+  "key": "core57",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Schouwenaars",
+    "given": "Irena T.",
+    "ini": "IT"
+   },
+   {
+    "family": "de Dreu",
+    "given": "Miek J.",
+    "ini": "MJ"
+   },
+   {
+    "family": "Rutten",
+    "given": "Geert‐Jan M.",
+    "ini": "GM"
+   },
+   {
+    "family": "Ramsey",
+    "given": "Nick F.",
+    "ini": "NF"
+   },
+   {
+    "family": "Jansma",
+    "given": "J. Martijn",
+    "ini": "JM"
+   }
+  ],
+  "title": "Cognitive brain activity before and after surgery in meningioma patients",
+  "journal": "European Journal of Neuroscience",
+  "abbr": "Eur J Neurosci",
+  "year": 2024,
+  "volume": "60",
+  "issue": "1",
+  "pages": "3759-3771",
+  "doi": "10.1111/ejn.16378",
+  "pmid": "",
+  "language": "en"
+ },
+ "core58": {
+  "key": "core58",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Skandalakis",
+    "given": "Georgios P.",
+    "ini": "GP"
+   },
+   {
+    "family": "Medani",
+    "given": "Khalid",
+    "ini": "K"
+   },
+   {
+    "family": "Rumalla",
+    "given": "Kavelin",
+    "ini": "K"
+   },
+   {
+    "family": "Roy",
+    "given": "Joanna M.",
+    "ini": "JM"
+   },
+   {
+    "family": "Segura",
+    "given": "Aaron",
+    "ini": "A"
+   },
+   {
+    "family": "Zohdy",
+    "given": "Youssef M.",
+    "ini": "YM"
+   },
+   {
+    "family": "Kazim",
+    "given": "Syed Faraz",
+    "ini": "SF"
+   },
+   {
+    "family": "Schmidt",
+    "given": "Meic H.",
+    "ini": "MH"
+   },
+   {
+    "family": "Bowers",
+    "given": "Christian A.",
+    "ini": "CA"
+   }
+  ],
+  "title": "Preoperative frailty and 30-day mortality after resection of brain metastases: a multicenter surgical registry analysis of 11,038 patients",
+  "journal": "Neurosurgical Focus",
+  "abbr": "Neurosurg Focus",
+  "year": 2023,
+  "volume": "55",
+  "issue": "2",
+  "pages": "E8",
+  "doi": "10.3171/2023.5.focus23198",
+  "pmid": "",
+  "language": "en"
+ },
+ "core59": {
+  "key": "core59",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Stålnacke",
+    "given": "Mattias",
+    "ini": "M"
+   },
+   {
+    "family": "Bergenheim",
+    "given": "Tommy",
+    "ini": "T"
+   },
+   {
+    "family": "Sjöberg",
+    "given": "Rickard L.",
+    "ini": "RL"
+   }
+  ],
+  "title": "Neuropsychological function and quality of life after resection of suspected lower-grade glioma in the face primary motor area",
+  "journal": "Journal of Clinical Medicine",
+  "abbr": "J Clin Med",
+  "year": 2021,
+  "volume": "10",
+  "issue": "4",
+  "pages": "580",
+  "doi": "10.3390/jcm10040580",
+  "pmid": "",
+  "language": "en"
+ },
+ "core60": {
+  "type": "preprint",
+  "authors": [
+   {
+    "family": "Tran",
+    "given": "Triet M",
+    "ini": "TM"
+   },
+   {
+    "family": "Khanmohammadi",
+    "given": "Sina",
+    "ini": "S"
+   }
+  ],
+  "title": "Presurgical neural energy landscapes predict postoperative working memory outcome after brain tumor resection",
+  "journal": "arXiv",
+  "abbr": "arXiv",
+  "year": 2025,
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "doi": "10.48550/arXiv.2507.23057",
+  "archive": "arXiv:2507.23057",
+  "key": "core60",
+  "pmid": ""
+ },
+ "core61": {
+  "key": "core61",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Tan",
+    "given": "Chengwei",
+    "ini": "C"
+   },
+   {
+    "family": "Li",
+    "given": "Mo",
+    "ini": "M"
+   }
+  ],
+  "title": "Effects of ciprofol on hemodynamics and cerebral protection in patients undergoing meningioma resection",
+  "journal": "Medicine",
+  "abbr": "Medicine (Baltimore)",
+  "year": 2025,
+  "volume": "104",
+  "issue": "33",
+  "pages": "e43386",
+  "doi": "10.1097/md.0000000000043386",
+  "pmid": "",
+  "language": "en"
+ },
+ "core62": {
+  "key": "core62",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Budėnas",
+    "given": "Antanas",
+    "ini": "A"
+   },
+   {
+    "family": "Tamašauskas",
+    "given": "Šarūnas",
+    "ini": "Š"
+   },
+   {
+    "family": "Šliaužys",
+    "given": "Albertas",
+    "ini": "A"
+   },
+   {
+    "family": "Navickaitė",
+    "given": "Ieva",
+    "ini": "I"
+   },
+   {
+    "family": "Sidaraitė",
+    "given": "Miglė",
+    "ini": "M"
+   },
+   {
+    "family": "Pranckevičienė",
+    "given": "Aistė",
+    "ini": "A"
+   },
+   {
+    "family": "Deltuva",
+    "given": "Vytenis Pranas",
+    "ini": "VP"
+   },
+   {
+    "family": "Tamašauskas",
+    "given": "Arimantas",
+    "ini": "A"
+   },
+   {
+    "family": "Bunevičius",
+    "given": "Adomas",
+    "ini": "A"
+   }
+  ],
+  "title": "Incidence and clinical significance of postoperative delirium after brain tumor surgery",
+  "journal": "Acta Neurochirurgica",
+  "abbr": "Acta Neurochir (Wien)",
+  "year": 2018,
+  "volume": "160",
+  "issue": "12",
+  "pages": "2327-2337",
+  "doi": "10.1007/s00701-018-3718-2",
+  "pmid": "",
+  "language": "en"
+ },
+ "core63": {
+  "key": "core63",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "van Nieuwenhuizen",
+    "given": "David",
+    "ini": "D"
+   },
+   {
+    "family": "Douw",
+    "given": "Linda",
+    "ini": "L"
+   },
+   {
+    "family": "Klein",
+    "given": "Martin",
+    "ini": "M"
+   },
+   {
+    "family": "Peerdeman",
+    "given": "Saskia M.",
+    "ini": "SM"
+   },
+   {
+    "family": "Heimans",
+    "given": "Jan J.",
+    "ini": "JJ"
+   },
+   {
+    "family": "Reijneveld",
+    "given": "Jaap C.",
+    "ini": "JC"
+   },
+   {
+    "family": "Stam",
+    "given": "Cornelis J.",
+    "ini": "CJ"
+   },
+   {
+    "family": "Hillebrand",
+    "given": "Arjan",
+    "ini": "A"
+   }
+  ],
+  "title": "Cognitive functioning and functional brain networks in postoperative WHO grade I meningioma patients",
+  "journal": "Journal of Neuro-Oncology",
+  "abbr": "J Neurooncol",
+  "year": 2018,
+  "volume": "140",
+  "issue": "3",
+  "pages": "605-613",
+  "doi": "10.1007/s11060-018-2987-1",
+  "pmid": "",
+  "language": "en"
+ },
+ "core64": {
+  "key": "core64",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Wu",
+    "given": "C.Y.",
+    "ini": "CY"
+   },
+   {
+    "family": "Lin",
+    "given": "Y.S.",
+    "ini": "YS"
+   },
+   {
+    "family": "Tseng",
+    "given": "H.M.",
+    "ini": "HM"
+   },
+   {
+    "family": "Cheng",
+    "given": "H.L.",
+    "ini": "HL"
+   },
+   {
+    "family": "Lee",
+    "given": "T.S.",
+    "ini": "TS"
+   },
+   {
+    "family": "Lin",
+    "given": "P.L.",
+    "ini": "PL"
+   },
+   {
+    "family": "Chou",
+    "given": "W.H.",
+    "ini": "WH"
+   },
+   {
+    "family": "Cheng",
+    "given": "Y.J.",
+    "ini": "YJ"
+   }
+  ],
+  "title": "Comparison of two stroke volume variation-based goal-directed fluid therapies for supratentorial brain tumour resection: a randomized controlled trial",
+  "journal": "British Journal of Anaesthesia",
+  "abbr": "Br J Anaesth",
+  "year": 2017,
+  "volume": "119",
+  "issue": "5",
+  "pages": "934-942",
+  "doi": "10.1093/bja/aex189",
+  "pmid": "",
+  "language": "en"
+ },
+ "core65": {
+  "key": "core65",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Wu",
+    "given": "Yishuang",
+    "ini": "Y"
+   },
+   {
+    "family": "Ren",
+    "given": "Yue",
+    "ini": "Y"
+   },
+   {
+    "family": "Li",
+    "given": "Shu",
+    "ini": "S"
+   },
+   {
+    "family": "Zeng",
+    "given": "Min",
+    "ini": "M"
+   },
+   {
+    "family": "Wang",
+    "given": "Jie",
+    "ini": "J"
+   },
+   {
+    "family": "Li",
+    "given": "Muhan",
+    "ini": "M"
+   },
+   {
+    "family": "Peng",
+    "given": "Yuming",
+    "ini": "Y"
+   }
+  ],
+  "title": "Association between intraoperative hypotension during brain tumor resection and postoperative delirium: A secondary analysis of a randomized controlled trial",
+  "journal": "PLOS One",
+  "abbr": "PLoS One",
+  "year": 2025,
+  "volume": "20",
+  "issue": "10",
+  "pages": "e0334094",
+  "doi": "10.1371/journal.pone.0334094",
+  "pmid": "",
+  "language": "en"
+ },
+ "core66": {
+  "key": "core66",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Wu",
+    "given": "Zhu",
+    "ini": "Z"
+   },
+   {
+    "family": "Sun",
+    "given": "Xue",
+    "ini": "X"
+   },
+   {
+    "family": "Wu",
+    "given": "Yu",
+    "ini": "Y"
+   },
+   {
+    "family": "Zhang",
+    "given": "Haiying",
+    "ini": "H"
+   }
+  ],
+  "title": "Curve fitting algorithm-based contrast-enhanced ultrasound image for evaluating the effect of dexmedetomidine on neurological function in patients undergoing brain tumor surgery",
+  "journal": "Scientific Programming",
+  "abbr": "Sci Program",
+  "year": 2022,
+  "volume": "2022",
+  "issue": "",
+  "pages": "7717075",
+  "doi": "10.1155/2022/7717075",
+  "pmid": "",
+  "language": "en"
+ },
+ "core67": {
+  "key": "core67",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Yuan",
+    "given": "Yuan",
+    "ini": "Y"
+   },
+   {
+    "family": "Gu",
+    "given": "Qiuping",
+    "ini": "Q"
+   },
+   {
+    "family": "Zhu",
+    "given": "Minglan",
+    "ini": "M"
+   },
+   {
+    "family": "Zhang",
+    "given": "Yuping",
+    "ini": "Y"
+   },
+   {
+    "family": "Lan",
+    "given": "Meijuan",
+    "ini": "M"
+   }
+  ],
+  "title": "Reducing postoperative delirium in brain tumor patients through frailty-originated early rehabilitation: Findings from a prospective randomized study",
+  "journal": "Asia-Pacific Journal of Oncology Nursing",
+  "abbr": "Asia Pac J Oncol Nurs",
+  "year": 2023,
+  "volume": "10",
+  "issue": "8",
+  "pages": "100263",
+  "doi": "10.1016/j.apjon.2023.100263",
+  "pmid": "",
+  "language": "en"
+ },
+ "core68": {
+  "key": "core68",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Zarino",
+    "given": "Barbara",
+    "ini": "B"
+   },
+   {
+    "family": "Sirtori",
+    "given": "Martina Andrea",
+    "ini": "MA"
+   },
+   {
+    "family": "Meschini",
+    "given": "Tommaso",
+    "ini": "T"
+   },
+   {
+    "family": "Bertani",
+    "given": "Giulio Andrea",
+    "ini": "GA"
+   },
+   {
+    "family": "Caroli",
+    "given": "Manuela",
+    "ini": "M"
+   },
+   {
+    "family": "Bana",
+    "given": "Cristina",
+    "ini": "C"
+   },
+   {
+    "family": "Borellini",
+    "given": "Linda",
+    "ini": "L"
+   },
+   {
+    "family": "Locatelli",
+    "given": "Marco",
+    "ini": "M"
+   },
+   {
+    "family": "Carrabba",
+    "given": "Giorgio",
+    "ini": "G"
+   }
+  ],
+  "title": "Insular lobe surgery and cognitive impairment in gliomas operated with intraoperative neurophysiological monitoring",
+  "journal": "Acta Neurochirurgica",
+  "abbr": "Acta Neurochir (Wien)",
+  "year": 2021,
+  "volume": "163",
+  "issue": "5",
+  "pages": "1279-1289",
+  "doi": "10.1007/s00701-020-04643-9",
+  "pmid": "",
+  "language": "en"
+ },
+ "core69": {
+  "key": "core69",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Zhao",
+    "given": "Kai",
+    "ini": "K"
+   },
+   {
+    "family": "Dong",
+    "given": "Yushan",
+    "ini": "Y"
+   },
+   {
+    "family": "Su",
+    "given": "Gaowei",
+    "ini": "G"
+   },
+   {
+    "family": "Wang",
+    "given": "Yaolin",
+    "ini": "Y"
+   },
+   {
+    "family": "Ji",
+    "given": "Tao",
+    "ini": "T"
+   },
+   {
+    "family": "Wu",
+    "given": "Nanling",
+    "ini": "N"
+   },
+   {
+    "family": "Cui",
+    "given": "Xiaojie",
+    "ini": "X"
+   },
+   {
+    "family": "Li",
+    "given": "Wenzhan",
+    "ini": "W"
+   },
+   {
+    "family": "Yang",
+    "given": "Yanming",
+    "ini": "Y"
+   },
+   {
+    "family": "Chen",
+    "given": "Xiuxia",
+    "ini": "X"
+   }
+  ],
+  "title": "Effect of systemic lidocaine on postoperative early recovery quality in patients undergoing supratentorial tumor resection",
+  "journal": "Drug Design, Development and Therapy",
+  "abbr": "Drug Des Devel Ther",
+  "year": 2022,
+  "volume": "16",
+  "issue": "",
+  "pages": "1171-1181",
+  "doi": "10.2147/dddt.s359755",
+  "pmid": "",
+  "language": "en"
+ },
+ "core70": {
+  "key": "core70",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Zigiotto",
+    "given": "Luca",
+    "ini": "L"
+   },
+   {
+    "family": "Venturini",
+    "given": "Riccardo",
+    "ini": "R"
+   },
+   {
+    "family": "Coletta",
+    "given": "Ludovico",
+    "ini": "L"
+   },
+   {
+    "family": "Venturini",
+    "given": "Martina",
+    "ini": "M"
+   },
+   {
+    "family": "Dal Monte",
+    "given": "Domenico",
+    "ini": "D"
+   },
+   {
+    "family": "Vavassori",
+    "given": "Laura",
+    "ini": "L"
+   },
+   {
+    "family": "Corsini",
+    "given": "Francesco",
+    "ini": "F"
+   },
+   {
+    "family": "Annicchiarico",
+    "given": "Luciano",
+    "ini": "L"
+   },
+   {
+    "family": "Avesani",
+    "given": "Paolo",
+    "ini": "P"
+   },
+   {
+    "family": "Papagno",
+    "given": "Costanza",
+    "ini": "C"
+   },
+   {
+    "family": "Sarubbo",
+    "given": "Silvio",
+    "ini": "S"
+   }
+  ],
+  "title": "Maximizing tumor resection and managing cognitive attentional outcomes: measures of impact of awake surgery in glioma treatment",
+  "journal": "Neurosurgery",
+  "abbr": "Neurosurgery",
+  "year": 2026,
+  "volume": "98",
+  "issue": "2",
+  "pages": "365-375",
+  "doi": "10.1227/neu.0000000000003591",
+  "pmid": "",
+  "language": "en"
+ },
+ "nayak2017": {
+  "key": "nayak2017",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Nayak",
+    "given": "Lakshmi",
+    "ini": "L"
+   },
+   {
+    "family": "DeAngelis",
+    "given": "Lisa M.",
+    "ini": "LM"
+   },
+   {
+    "family": "Brandes",
+    "given": "Alba A.",
+    "ini": "AA"
+   },
+   {
+    "family": "Peereboom",
+    "given": "David M.",
+    "ini": "DM"
+   },
+   {
+    "family": "Galanis",
+    "given": "Evanthia",
+    "ini": "E"
+   },
+   {
+    "family": "Lin",
+    "given": "Nancy U.",
+    "ini": "NU"
+   },
+   {
+    "family": "Soffietti",
+    "given": "Riccardo",
+    "ini": "R"
+   },
+   {
+    "family": "Macdonald",
+    "given": "David R.",
+    "ini": "DR"
+   },
+   {
+    "family": "Chamberlain",
+    "given": "Marc",
+    "ini": "M"
+   },
+   {
+    "family": "Perry",
+    "given": "James",
+    "ini": "J"
+   },
+   {
+    "family": "Jaeckle",
+    "given": "Kurt",
+    "ini": "K"
+   },
+   {
+    "family": "Mehta",
+    "given": "Minesh",
+    "ini": "M"
+   },
+   {
+    "family": "Stupp",
+    "given": "Roger",
+    "ini": "R"
+   },
+   {
+    "family": "Muzikansky",
+    "given": "Alona",
+    "ini": "A"
+   },
+   {
+    "family": "Pentsova",
+    "given": "Elena",
+    "ini": "E"
+   },
+   {
+    "family": "Cloughesy",
+    "given": "Timothy",
+    "ini": "T"
+   },
+   {
+    "family": "Iwamoto",
+    "given": "Fabio M.",
+    "ini": "FM"
+   },
+   {
+    "family": "Tonn",
+    "given": "Joerg-Christian",
+    "ini": "JC"
+   },
+   {
+    "family": "Vogelbaum",
+    "given": "Michael A.",
+    "ini": "MA"
+   },
+   {
+    "family": "Wen",
+    "given": "Patrick Y.",
+    "ini": "PY"
+   },
+   {
+    "family": "van den Bent",
+    "given": "Martin J.",
+    "ini": "MJ"
+   },
+   {
+    "family": "Reardon",
+    "given": "David A.",
+    "ini": "DA"
+   }
+  ],
+  "title": "The Neurologic Assessment in Neuro-Oncology (NANO) scale: a tool to assess neurologic function for integration into the Response Assessment in Neuro-Oncology (RANO) criteria",
+  "journal": "Neuro-Oncology",
+  "abbr": "Neuro Oncol",
+  "year": 2017,
+  "volume": "19",
+  "issue": "5",
+  "pages": "625-635",
+  "doi": "10.1093/neuonc/nox029",
+  "pmid": "28453751",
+  "language": "en"
+ },
+ "angelita2026": {
+  "key": "angelita2026",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Angelita",
+    "given": "Michelle",
+    "ini": "M"
+   },
+   {
+    "family": "Andini",
+    "given": "Putri",
+    "ini": "P"
+   },
+   {
+    "family": "Andriani",
+    "given": "Rini",
+    "ini": "R"
+   },
+   {
+    "family": "Sofyan",
+    "given": "Henry",
+    "ini": "H"
+   },
+   {
+    "family": "Savitri",
+    "given": "Irma",
+    "ini": "I"
+   },
+   {
+    "family": "Aninditha",
+    "given": "Tiara",
+    "ini": "T"
+   }
+  ],
+  "title": "Translation and validation of the Neurologic Assessment in Neuro-Oncology scale into Indonesian (NANO-Ina)",
+  "journal": "Asian Pacific Journal of Cancer Prevention",
+  "abbr": "Asian Pac J Cancer Prev",
+  "year": 2026,
+  "volume": "27",
+  "issue": "3",
+  "pages": "941-946",
+  "doi": "10.31557/apjcp.2026.27.3.941",
+  "pmid": "41793672",
+  "language": "en"
+ },
+ "jammula2022": {
+  "key": "jammula2022",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Jammula",
+    "given": "Varna",
+    "ini": "V"
+   },
+   {
+    "family": "Rogers",
+    "given": "James L",
+    "ini": "JL"
+   },
+   {
+    "family": "Vera",
+    "given": "Elizabeth",
+    "ini": "E"
+   },
+   {
+    "family": "Christ",
+    "given": "Alexa",
+    "ini": "A"
+   },
+   {
+    "family": "Leeper",
+    "given": "Heather E",
+    "ini": "HE"
+   },
+   {
+    "family": "Acquaye",
+    "given": "Alvina",
+    "ini": "A"
+   },
+   {
+    "family": "Briceno",
+    "given": "Nicole",
+    "ini": "N"
+   },
+   {
+    "family": "Choi",
+    "given": "Anna",
+    "ini": "A"
+   },
+   {
+    "family": "Grajkowska",
+    "given": "Ewa",
+    "ini": "E"
+   },
+   {
+    "family": "Levine",
+    "given": "Jason E",
+    "ini": "JE"
+   },
+   {
+    "family": "Lindsley",
+    "given": "Matthew",
+    "ini": "M"
+   },
+   {
+    "family": "Reyes",
+    "given": "Jennifer",
+    "ini": "J"
+   },
+   {
+    "family": "Roche",
+    "given": "Kayla N",
+    "ini": "KN"
+   },
+   {
+    "family": "Timmer",
+    "given": "Michael",
+    "ini": "M"
+   },
+   {
+    "family": "Boris",
+    "given": "Lisa",
+    "ini": "L"
+   },
+   {
+    "family": "Burton",
+    "given": "Eric",
+    "ini": "E"
+   },
+   {
+    "family": "Lollo",
+    "given": "Nicole",
+    "ini": "N"
+   },
+   {
+    "family": "Panzer",
+    "given": "Marissa",
+    "ini": "M"
+   },
+   {
+    "family": "Smith-Cohn",
+    "given": "Matthew A",
+    "ini": "MA"
+   },
+   {
+    "family": "Penas-Prado",
+    "given": "Marta",
+    "ini": "M"
+   },
+   {
+    "family": "Pillai",
+    "given": "Valentina",
+    "ini": "V"
+   },
+   {
+    "family": "Theeler",
+    "given": "Brett J",
+    "ini": "BJ"
+   },
+   {
+    "family": "Wu",
+    "given": "Jing",
+    "ini": "J"
+   },
+   {
+    "family": "Gilbert",
+    "given": "Mark R",
+    "ini": "MR"
+   },
+   {
+    "family": "Armstrong",
+    "given": "Terri S",
+    "ini": "TS"
+   }
+  ],
+  "title": "The Montreal Cognitive Assessment (MoCA) in neuro-oncology: a pilot study of feasibility and utility in telehealth and in-person clinical assessments",
+  "journal": "Neuro-Oncology Practice",
+  "abbr": "Neurooncol Pract",
+  "year": 2022,
+  "volume": "9",
+  "issue": "5",
+  "pages": "429-440",
+  "doi": "10.1093/nop/npac038",
+  "pmid": "36124322",
+  "language": "en"
+ },
+ "bangun2018": {
+  "key": "bangun2018",
+  "type": "book-chapter",
+  "authors": [
+   {
+    "family": "Bangun",
+    "given": "S.",
+    "ini": "S"
+   },
+   {
+    "family": "Sjahrir",
+    "given": "H.",
+    "ini": "H"
+   },
+   {
+    "family": "Fitri",
+    "given": "F.I.",
+    "ini": "FI"
+   }
+  ],
+  "title": "The difference of MMSE and MoCA-Ina scores in brain tumors",
+  "journal": "Stem Cell Oncology",
+  "abbr": "",
+  "year": 2018,
+  "volume": "",
+  "issue": "",
+  "pages": "119-123",
+  "doi": "10.1201/9781351190152-26",
+  "pmid": "",
+  "language": "en"
+ },
+ "rambe2017": {
+  "key": "rambe2017",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Rambe",
+    "given": "Aldy Safruddin",
+    "ini": "AS"
+   },
+   {
+    "family": "Fitri",
+    "given": "Fasihah Irfani",
+    "ini": "FI"
+   }
+  ],
+  "title": "Correlation between the Montreal Cognitive Assessment-Indonesian Version (MoCA-INA) and the Mini-Mental State Examination (MMSE) in elderly",
+  "journal": "Open Access Macedonian Journal of Medical Sciences",
+  "abbr": "Open Access Maced J Med Sci",
+  "year": 2017,
+  "volume": "5",
+  "issue": "7",
+  "pages": "915-919",
+  "doi": "10.3889/oamjms.2017.202",
+  "pmid": "29362618",
+  "language": "en"
+ },
+ "wonggo2025": {
+  "key": "wonggo2025",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Wonggo",
+    "given": "Tesalonika",
+    "ini": "T"
+   },
+   {
+    "family": "Kambey",
+    "given": "Barry I.",
+    "ini": "BI"
+   },
+   {
+    "family": "Lalenoh",
+    "given": "Diana C.",
+    "ini": "DC"
+   }
+  ],
+  "title": "Cognitive function MoCA-INA scale of anaesthesiology and intensive therapy residents: a comparison of before and after on-call duty",
+  "journal": "Medical Scope Journal",
+  "abbr": "Med Scope J",
+  "year": 2025,
+  "volume": "7",
+  "issue": "1",
+  "pages": "183-188",
+  "doi": "10.35790/msj.v7i1.56407",
+  "pmid": "",
+  "language": "en"
+ },
+ "fried2001": {
+  "key": "fried2001",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Fried",
+    "given": "L. P.",
+    "ini": "LP"
+   },
+   {
+    "family": "Tangen",
+    "given": "C. M.",
+    "ini": "CM"
+   },
+   {
+    "family": "Walston",
+    "given": "J.",
+    "ini": "J"
+   },
+   {
+    "family": "Newman",
+    "given": "A. B.",
+    "ini": "AB"
+   },
+   {
+    "family": "Hirsch",
+    "given": "C.",
+    "ini": "C"
+   },
+   {
+    "family": "Gottdiener",
+    "given": "J.",
+    "ini": "J"
+   },
+   {
+    "family": "Seeman",
+    "given": "T.",
+    "ini": "T"
+   },
+   {
+    "family": "Tracy",
+    "given": "R.",
+    "ini": "R"
+   },
+   {
+    "family": "Kop",
+    "given": "W. J.",
+    "ini": "WJ"
+   },
+   {
+    "family": "Burke",
+    "given": "G.",
+    "ini": "G"
+   },
+   {
+    "family": "McBurnie",
+    "given": "M. A.",
+    "ini": "MA"
+   }
+  ],
+  "title": "Frailty in older adults: evidence for a phenotype",
+  "journal": "The Journals of Gerontology Series A: Biological Sciences and Medical Sciences",
+  "abbr": "J Gerontol A Biol Sci Med Sci",
+  "year": 2001,
+  "volume": "56",
+  "issue": "3",
+  "pages": "M146-M157",
+  "doi": "10.1093/gerona/56.3.m146",
+  "pmid": "",
+  "language": "en"
+ },
+ "clegg2013": {
+  "key": "clegg2013",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Clegg",
+    "given": "Andrew",
+    "ini": "A"
+   },
+   {
+    "family": "Young",
+    "given": "John",
+    "ini": "J"
+   },
+   {
+    "family": "Iliffe",
+    "given": "Steve",
+    "ini": "S"
+   },
+   {
+    "family": "Rikkert",
+    "given": "Marcel Olde",
+    "ini": "MO"
+   },
+   {
+    "family": "Rockwood",
+    "given": "Kenneth",
+    "ini": "K"
+   }
+  ],
+  "title": "Frailty in elderly people",
+  "journal": "The Lancet",
+  "abbr": "Lancet",
+  "year": 2013,
+  "volume": "381",
+  "issue": "9868",
+  "pages": "752-762",
+  "doi": "10.1016/s0140-6736(12)62167-9",
+  "pmid": "",
+  "language": "en"
+ },
+ "rockwood2005": {
+  "key": "rockwood2005",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Rockwood",
+    "given": "K.",
+    "ini": "K"
+   }
+  ],
+  "title": "A global clinical measure of fitness and frailty in elderly people",
+  "journal": "Canadian Medical Association Journal",
+  "abbr": "CMAJ",
+  "year": 2005,
+  "volume": "173",
+  "issue": "5",
+  "pages": "489-495",
+  "doi": "10.1503/cmaj.050051",
+  "pmid": "",
+  "language": "en"
+ },
+ "kelaiditi2013": {
+  "key": "kelaiditi2013",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Kelaiditi",
+    "given": "Eirini",
+    "ini": "E"
+   },
+   {
+    "family": "Cesari",
+    "given": "M.",
+    "ini": "M"
+   },
+   {
+    "family": "Canevelli",
+    "given": "M.",
+    "ini": "M"
+   },
+   {
+    "family": "Abellan van Kan",
+    "given": "G.",
+    "ini": "G"
+   },
+   {
+    "family": "Ousset",
+    "given": "P.-J.",
+    "ini": "PJ"
+   },
+   {
+    "family": "Gillette-Guyonnet",
+    "given": "S.",
+    "ini": "S"
+   },
+   {
+    "family": "Ritz",
+    "given": "P.",
+    "ini": "P"
+   },
+   {
+    "family": "Duveau",
+    "given": "F.",
+    "ini": "F"
+   },
+   {
+    "family": "Soto",
+    "given": "M.E.",
+    "ini": "ME"
+   },
+   {
+    "family": "Provencher",
+    "given": "V.",
+    "ini": "V"
+   },
+   {
+    "family": "Nourhashemi",
+    "given": "F.",
+    "ini": "F"
+   },
+   {
+    "family": "Salva",
+    "given": "A.",
+    "ini": "A"
+   },
+   {
+    "family": "Robert",
+    "given": "P.",
+    "ini": "P"
+   },
+   {
+    "family": "Andrieu",
+    "given": "S.",
+    "ini": "S"
+   },
+   {
+    "family": "Rolland",
+    "given": "Y.",
+    "ini": "Y"
+   },
+   {
+    "family": "Touchon",
+    "given": "J.",
+    "ini": "J"
+   },
+   {
+    "family": "Fitten",
+    "given": "J.L.",
+    "ini": "JL"
+   },
+   {
+    "family": "Vellas",
+    "given": "B.",
+    "ini": "B"
+   }
+  ],
+  "title": "Cognitive frailty: rational and definition from an (I.A.N.A./I.A.G.G.) international consensus group",
+  "journal": "The Journal of nutrition, health and aging",
+  "abbr": "J Nutr Health Aging",
+  "year": 2013,
+  "volume": "17",
+  "issue": "9",
+  "pages": "726-734",
+  "doi": "10.1007/s12603-013-0367-2",
+  "pmid": "",
+  "language": "en"
+ },
+ "appleton2020": {
+  "key": "appleton2020",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Appleton",
+    "given": "Jason P.",
+    "ini": "JP"
+   },
+   {
+    "family": "Woodhouse",
+    "given": "Lisa J.",
+    "ini": "LJ"
+   },
+   {
+    "family": "Adami",
+    "given": "Alessandro",
+    "ini": "A"
+   },
+   {
+    "family": "Becker",
+    "given": "Jennifer L.",
+    "ini": "JL"
+   },
+   {
+    "family": "Berge",
+    "given": "Eivind",
+    "ini": "E"
+   },
+   {
+    "family": "Cala",
+    "given": "Lesley A.",
+    "ini": "LA"
+   },
+   {
+    "family": "Casado",
+    "given": "Ana M.",
+    "ini": "AM"
+   },
+   {
+    "family": "Caso",
+    "given": "Valeria",
+    "ini": "V"
+   },
+   {
+    "family": "Christensen",
+    "given": "Hanne K.",
+    "ini": "HK"
+   },
+   {
+    "family": "Dineen",
+    "given": "Robert A.",
+    "ini": "RA"
+   },
+   {
+    "family": "Gommans",
+    "given": "John",
+    "ini": "J"
+   },
+   {
+    "family": "Koumellis",
+    "given": "Panos",
+    "ini": "P"
+   },
+   {
+    "family": "Szatmari",
+    "given": "Szabolcs",
+    "ini": "S"
+   },
+   {
+    "family": "Sprigg",
+    "given": "Nikola",
+    "ini": "N"
+   },
+   {
+    "family": "Bath",
+    "given": "Philip M.",
+    "ini": "PM"
+   },
+   {
+    "family": "Wardlaw",
+    "given": "Joanna M.",
+    "ini": "JM"
+   },
+   {
+    "family": "for the ENOS Investigators",
+    "given": "",
+    "ini": ""
+   }
+  ],
+  "title": "Imaging markers of small vessel disease and brain frailty, and outcomes in acute stroke",
+  "journal": "Neurology",
+  "abbr": "Neurology",
+  "year": 2020,
+  "volume": "94",
+  "issue": "5",
+  "pages": "e439-e452",
+  "doi": "10.1212/wnl.0000000000008881",
+  "pmid": "31882527",
+  "language": "en"
+ },
+ "evered2018": {
+  "key": "evered2018",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Evered",
+    "given": "L.",
+    "ini": "L"
+   },
+   {
+    "family": "Silbert",
+    "given": "B.",
+    "ini": "B"
+   },
+   {
+    "family": "Knopman",
+    "given": "D. S.",
+    "ini": "DS"
+   },
+   {
+    "family": "Scott",
+    "given": "D. A.",
+    "ini": "DA"
+   },
+   {
+    "family": "DeKosky",
+    "given": "S. T.",
+    "ini": "ST"
+   },
+   {
+    "family": "Rasmussen",
+    "given": "L. S.",
+    "ini": "LS"
+   },
+   {
+    "family": "Oh",
+    "given": "E. S.",
+    "ini": "ES"
+   },
+   {
+    "family": "Crosby",
+    "given": "G.",
+    "ini": "G"
+   },
+   {
+    "family": "Berger",
+    "given": "M.",
+    "ini": "M"
+   },
+   {
+    "family": "Eckenhoff",
+    "given": "R. G.",
+    "ini": "RG"
+   },
+   {
+    "family": "The Nomenclature Consensus Working Group",
+    "given": "",
+    "ini": ""
+   }
+  ],
+  "title": "Recommendations for the nomenclature of cognitive change associated with anaesthesia and surgery-2018",
+  "journal": "Anesthesiology",
+  "abbr": "Anesthesiology",
+  "year": 2018,
+  "volume": "129",
+  "issue": "5",
+  "pages": "872-879",
+  "doi": "10.1097/aln.0000000000002334",
+  "pmid": "",
+  "language": "en"
+ },
+ "ostrom2023": {
+  "key": "ostrom2023",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Ostrom",
+    "given": "Quinn T",
+    "ini": "QT"
+   },
+   {
+    "family": "Price",
+    "given": "Mackenzie",
+    "ini": "M"
+   },
+   {
+    "family": "Neff",
+    "given": "Corey",
+    "ini": "C"
+   },
+   {
+    "family": "Cioffi",
+    "given": "Gino",
+    "ini": "G"
+   },
+   {
+    "family": "Waite",
+    "given": "Kristin A",
+    "ini": "KA"
+   },
+   {
+    "family": "Kruchko",
+    "given": "Carol",
+    "ini": "C"
+   },
+   {
+    "family": "Barnholtz-Sloan",
+    "given": "Jill S",
+    "ini": "JS"
+   }
+  ],
+  "title": "CBTRUS statistical report: primary brain and other central nervous system tumors diagnosed in the United States in 2016-2020",
+  "journal": "Neuro-Oncology",
+  "abbr": "Neuro Oncol",
+  "year": 2023,
+  "volume": "25",
+  "issue": "Suppl 4",
+  "pages": "iv1-iv99",
+  "doi": "10.1093/neuonc/noad149",
+  "pmid": "",
+  "language": "en"
+ },
+ "taphoorn2004": {
+  "key": "taphoorn2004",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Taphoorn",
+    "given": "Martin JB",
+    "ini": "MJ"
+   },
+   {
+    "family": "Klein",
+    "given": "Martin",
+    "ini": "M"
+   }
+  ],
+  "title": "Cognitive deficits in adult patients with brain tumours",
+  "journal": "The Lancet Neurology",
+  "abbr": "Lancet Neurol",
+  "year": 2004,
+  "volume": "3",
+  "issue": "3",
+  "pages": "159-168",
+  "doi": "10.1016/s1474-4422(04)00680-5",
+  "pmid": "",
+  "language": "en"
+ },
+ "tucha2000": {
+  "key": "tucha2000",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Tucha",
+    "given": "Oliver",
+    "ini": "O"
+   },
+   {
+    "family": "Smely",
+    "given": "Christian",
+    "ini": "C"
+   },
+   {
+    "family": "Preier",
+    "given": "Michael",
+    "ini": "M"
+   },
+   {
+    "family": "Lange",
+    "given": "Klaus W.",
+    "ini": "KW"
+   }
+  ],
+  "title": "Cognitive deficits before treatment among patients with brain tumors",
+  "journal": "Neurosurgery",
+  "abbr": "Neurosurgery",
+  "year": 2000,
+  "volume": "47",
+  "issue": "2",
+  "pages": "324-334",
+  "doi": "10.1097/00006123-200008000-00011",
+  "pmid": "",
+  "language": "en"
+ },
+ "quail2017": {
+  "key": "quail2017",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Quail",
+    "given": "Daniela F.",
+    "ini": "DF"
+   },
+   {
+    "family": "Joyce",
+    "given": "Johanna A.",
+    "ini": "JA"
+   }
+  ],
+  "title": "The microenvironmental landscape of brain tumors",
+  "journal": "Cancer Cell",
+  "abbr": "Cancer Cell",
+  "year": 2017,
+  "volume": "31",
+  "issue": "3",
+  "pages": "326-341",
+  "doi": "10.1016/j.ccell.2017.02.009",
+  "pmid": "",
+  "language": "en"
+ },
+ "hambardzumyan2016": {
+  "key": "hambardzumyan2016",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Hambardzumyan",
+    "given": "Dolores",
+    "ini": "D"
+   },
+   {
+    "family": "Gutmann",
+    "given": "David H",
+    "ini": "DH"
+   },
+   {
+    "family": "Kettenmann",
+    "given": "Helmut",
+    "ini": "H"
+   }
+  ],
+  "title": "The role of microglia and macrophages in glioma maintenance and progression",
+  "journal": "Nature Neuroscience",
+  "abbr": "Nat Neurosci",
+  "year": 2016,
+  "volume": "19",
+  "issue": "1",
+  "pages": "20-27",
+  "doi": "10.1038/nn.4185",
+  "pmid": "",
+  "language": "en"
+ },
+ "subramaniyan2019": {
+  "key": "subramaniyan2019",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Subramaniyan",
+    "given": "Saraswathi",
+    "ini": "S"
+   },
+   {
+    "family": "Terrando",
+    "given": "Niccolò",
+    "ini": "N"
+   }
+  ],
+  "title": "Neuroinflammation and perioperative neurocognitive disorders",
+  "journal": "Anesthesia & Analgesia",
+  "abbr": "Anesth Analg",
+  "year": 2019,
+  "volume": "128",
+  "issue": "4",
+  "pages": "781-788",
+  "doi": "10.1213/ane.0000000000004053",
+  "pmid": "",
+  "language": "en"
+ },
+ "safavynia2019": {
+  "key": "safavynia2019",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Safavynia",
+    "given": "Seyed A.",
+    "ini": "SA"
+   },
+   {
+    "family": "Goldstein",
+    "given": "Peter A.",
+    "ini": "PA"
+   }
+  ],
+  "title": "The role of neuroinflammation in postoperative cognitive dysfunction: moving from hypothesis to treatment",
+  "journal": "Frontiers in Psychiatry",
+  "abbr": "Front Psychiatry",
+  "year": 2019,
+  "volume": "9",
+  "issue": "",
+  "pages": "752",
+  "doi": "10.3389/fpsyt.2018.00752",
+  "pmid": "",
+  "language": "en"
+ },
+ "alam2018": {
+  "key": "alam2018",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Alam",
+    "given": "Azeem",
+    "ini": "A"
+   },
+   {
+    "family": "Hana",
+    "given": "Zac",
+    "ini": "Z"
+   },
+   {
+    "family": "Jin",
+    "given": "Zhaosheng",
+    "ini": "Z"
+   },
+   {
+    "family": "Suen",
+    "given": "Ka Chun",
+    "ini": "KC"
+   },
+   {
+    "family": "Ma",
+    "given": "Daqing",
+    "ini": "D"
+   }
+  ],
+  "title": "Surgery, neuroinflammation and cognitive impairment",
+  "journal": "EBioMedicine",
+  "abbr": "EBioMedicine",
+  "year": 2018,
+  "volume": "37",
+  "issue": "",
+  "pages": "547-556",
+  "doi": "10.1016/j.ebiom.2018.10.021",
+  "pmid": "",
+  "language": "en"
+ },
+ "perry2014": {
+  "key": "perry2014",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Perry",
+    "given": "V. Hugh",
+    "ini": "VH"
+   },
+   {
+    "family": "Holmes",
+    "given": "Clive",
+    "ini": "C"
+   }
+  ],
+  "title": "Microglial priming in neurodegenerative disease",
+  "journal": "Nature Reviews Neurology",
+  "abbr": "Nat Rev Neurol",
+  "year": 2014,
+  "volume": "10",
+  "issue": "4",
+  "pages": "217-224",
+  "doi": "10.1038/nrneurol.2014.38",
+  "pmid": "",
+  "language": "en"
+ },
+ "cunningham2013": {
+  "key": "cunningham2013",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Cunningham",
+    "given": "Colm",
+    "ini": "C"
+   }
+  ],
+  "title": "Microglia and neurodegeneration: The role of systemic inflammation",
+  "journal": "Glia",
+  "abbr": "Glia",
+  "year": 2013,
+  "volume": "61",
+  "issue": "1",
+  "pages": "71-90",
+  "doi": "10.1002/glia.22350",
+  "pmid": "",
+  "language": "en"
+ },
+ "khalil2018": {
+  "key": "khalil2018",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Khalil",
+    "given": "Michael",
+    "ini": "M"
+   },
+   {
+    "family": "Teunissen",
+    "given": "Charlotte E.",
+    "ini": "CE"
+   },
+   {
+    "family": "Otto",
+    "given": "Markus",
+    "ini": "M"
+   },
+   {
+    "family": "Piehl",
+    "given": "Fredrik",
+    "ini": "F"
+   },
+   {
+    "family": "Sormani",
+    "given": "Maria Pia",
+    "ini": "MP"
+   },
+   {
+    "family": "Gattringer",
+    "given": "Thomas",
+    "ini": "T"
+   },
+   {
+    "family": "Barro",
+    "given": "Christian",
+    "ini": "C"
+   },
+   {
+    "family": "Kappos",
+    "given": "Ludwig",
+    "ini": "L"
+   },
+   {
+    "family": "Comabella",
+    "given": "Manuel",
+    "ini": "M"
+   },
+   {
+    "family": "Fazekas",
+    "given": "Franz",
+    "ini": "F"
+   },
+   {
+    "family": "Petzold",
+    "given": "Axel",
+    "ini": "A"
+   },
+   {
+    "family": "Blennow",
+    "given": "Kaj",
+    "ini": "K"
+   },
+   {
+    "family": "Zetterberg",
+    "given": "Henrik",
+    "ini": "H"
+   },
+   {
+    "family": "Kuhle",
+    "given": "Jens",
+    "ini": "J"
+   }
+  ],
+  "title": "Neurofilaments as biomarkers in neurological disorders",
+  "journal": "Nature Reviews Neurology",
+  "abbr": "Nat Rev Neurol",
+  "year": 2018,
+  "volume": "14",
+  "issue": "10",
+  "pages": "577-589",
+  "doi": "10.1038/s41582-018-0058-z",
+  "pmid": "",
+  "language": "en"
+ },
+ "thelin2017": {
+  "key": "thelin2017",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Thelin",
+    "given": "Eric Peter",
+    "ini": "EP"
+   },
+   {
+    "family": "Zeiler",
+    "given": "Frederick Adam",
+    "ini": "FA"
+   },
+   {
+    "family": "Ercole",
+    "given": "Ari",
+    "ini": "A"
+   },
+   {
+    "family": "Mondello",
+    "given": "Stefania",
+    "ini": "S"
+   },
+   {
+    "family": "Büki",
+    "given": "András",
+    "ini": "A"
+   },
+   {
+    "family": "Bellander",
+    "given": "Bo-Michael",
+    "ini": "BM"
+   },
+   {
+    "family": "Helmy",
+    "given": "Adel",
+    "ini": "A"
+   },
+   {
+    "family": "Menon",
+    "given": "David K.",
+    "ini": "DK"
+   },
+   {
+    "family": "Nelson",
+    "given": "David W.",
+    "ini": "DW"
+   }
+  ],
+  "title": "Serial sampling of serum protein biomarkers for monitoring human traumatic brain injury dynamics: a systematic review",
+  "journal": "Frontiers in Neurology",
+  "abbr": "Front Neurol",
+  "year": 2017,
+  "volume": "8",
+  "issue": "",
+  "pages": "300",
+  "doi": "10.3389/fneur.2017.00300",
+  "pmid": "",
+  "language": "en"
+ },
+ "tricco2018": {
+  "key": "tricco2018",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Tricco",
+    "given": "Andrea C.",
+    "ini": "AC"
+   },
+   {
+    "family": "Lillie",
+    "given": "Erin",
+    "ini": "E"
+   },
+   {
+    "family": "Zarin",
+    "given": "Wasifa",
+    "ini": "W"
+   },
+   {
+    "family": "O'Brien",
+    "given": "Kelly K.",
+    "ini": "KK"
+   },
+   {
+    "family": "Colquhoun",
+    "given": "Heather",
+    "ini": "H"
+   },
+   {
+    "family": "Levac",
+    "given": "Danielle",
+    "ini": "D"
+   },
+   {
+    "family": "Moher",
+    "given": "David",
+    "ini": "D"
+   },
+   {
+    "family": "Peters",
+    "given": "Micah D.J.",
+    "ini": "MDJ"
+   },
+   {
+    "family": "Horsley",
+    "given": "Tanya",
+    "ini": "T"
+   },
+   {
+    "family": "Weeks",
+    "given": "Laura",
+    "ini": "L"
+   },
+   {
+    "family": "Hempel",
+    "given": "Susanne",
+    "ini": "S"
+   },
+   {
+    "family": "Akl",
+    "given": "Elie A.",
+    "ini": "EA"
+   },
+   {
+    "family": "Chang",
+    "given": "Christine",
+    "ini": "C"
+   },
+   {
+    "family": "McGowan",
+    "given": "Jessie",
+    "ini": "J"
+   },
+   {
+    "family": "Stewart",
+    "given": "Lesley",
+    "ini": "L"
+   },
+   {
+    "family": "Hartling",
+    "given": "Lisa",
+    "ini": "L"
+   },
+   {
+    "family": "Aldcroft",
+    "given": "Adrian",
+    "ini": "A"
+   },
+   {
+    "family": "Wilson",
+    "given": "Michael G.",
+    "ini": "MG"
+   },
+   {
+    "family": "Garritty",
+    "given": "Chantelle",
+    "ini": "C"
+   },
+   {
+    "family": "Lewin",
+    "given": "Simon",
+    "ini": "S"
+   },
+   {
+    "family": "Godfrey",
+    "given": "Christina M.",
+    "ini": "CM"
+   },
+   {
+    "family": "Macdonald",
+    "given": "Marilyn T.",
+    "ini": "MT"
+   },
+   {
+    "family": "Langlois",
+    "given": "Etienne V.",
+    "ini": "EV"
+   },
+   {
+    "family": "Soares-Weiser",
+    "given": "Karla",
+    "ini": "K"
+   },
+   {
+    "family": "Moriarty",
+    "given": "Jo",
+    "ini": "J"
+   },
+   {
+    "family": "Clifford",
+    "given": "Tammy",
+    "ini": "T"
+   },
+   {
+    "family": "Tunçalp",
+    "given": "Özge",
+    "ini": "Ö"
+   },
+   {
+    "family": "Straus",
+    "given": "Sharon E.",
+    "ini": "SE"
+   }
+  ],
+  "title": "PRISMA extension for scoping reviews (PRISMA-ScR): checklist and explanation",
+  "journal": "Annals of Internal Medicine",
+  "abbr": "Ann Intern Med",
+  "year": 2018,
+  "volume": "169",
+  "issue": "7",
+  "pages": "467-473",
+  "doi": "10.7326/m18-0850",
+  "pmid": "",
+  "language": "en"
+ },
+ "peters2020": {
+  "key": "peters2020",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Peters",
+    "given": "Micah D.J.",
+    "ini": "MDJ"
+   },
+   {
+    "family": "Marnie",
+    "given": "Casey",
+    "ini": "C"
+   },
+   {
+    "family": "Tricco",
+    "given": "Andrea C.",
+    "ini": "AC"
+   },
+   {
+    "family": "Pollock",
+    "given": "Danielle",
+    "ini": "D"
+   },
+   {
+    "family": "Munn",
+    "given": "Zachary",
+    "ini": "Z"
+   },
+   {
+    "family": "Alexander",
+    "given": "Lyndsay",
+    "ini": "L"
+   },
+   {
+    "family": "McInerney",
+    "given": "Patricia",
+    "ini": "P"
+   },
+   {
+    "family": "Godfrey",
+    "given": "Christina M.",
+    "ini": "CM"
+   },
+   {
+    "family": "Khalil",
+    "given": "Hanan",
+    "ini": "H"
+   }
+  ],
+  "title": "Updated methodological guidance for the conduct of scoping reviews",
+  "journal": "JBI Evidence Synthesis",
+  "abbr": "JBI Evid Synth",
+  "year": 2020,
+  "volume": "18",
+  "issue": "10",
+  "pages": "2119-2126",
+  "doi": "10.11124/jbies-20-00167",
+  "pmid": "",
+  "language": "en"
+ },
+ "arksey2005": {
+  "key": "arksey2005",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Arksey",
+    "given": "Hilary",
+    "ini": "H"
+   },
+   {
+    "family": "O'Malley",
+    "given": "Lisa",
+    "ini": "L"
+   }
+  ],
+  "title": "Scoping studies: towards a methodological framework",
+  "journal": "International Journal of Social Research Methodology",
+  "abbr": "Int J Soc Res Methodol",
+  "year": 2005,
+  "volume": "8",
+  "issue": "1",
+  "pages": "19-32",
+  "doi": "10.1080/1364557032000119616",
+  "pmid": "",
+  "language": "en"
+ },
+ "levac2010": {
+  "key": "levac2010",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Levac",
+    "given": "Danielle",
+    "ini": "D"
+   },
+   {
+    "family": "Colquhoun",
+    "given": "Heather",
+    "ini": "H"
+   },
+   {
+    "family": "O'Brien",
+    "given": "Kelly K",
+    "ini": "KK"
+   }
+  ],
+  "title": "Scoping studies: advancing the methodology",
+  "journal": "Implementation Science",
+  "abbr": "Implement Sci",
+  "year": 2010,
+  "volume": "5",
+  "issue": "1",
+  "pages": "69",
+  "doi": "10.1186/1748-5908-5-69",
+  "pmid": "",
+  "language": "en"
+ },
+ "pollock2023": {
+  "key": "pollock2023",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Pollock",
+    "given": "Danielle",
+    "ini": "D"
+   },
+   {
+    "family": "Peters",
+    "given": "Micah D.J.",
+    "ini": "MDJ"
+   },
+   {
+    "family": "Khalil",
+    "given": "Hanan",
+    "ini": "H"
+   },
+   {
+    "family": "McInerney",
+    "given": "Patricia",
+    "ini": "P"
+   },
+   {
+    "family": "Alexander",
+    "given": "Lyndsay",
+    "ini": "L"
+   },
+   {
+    "family": "Tricco",
+    "given": "Andrea C.",
+    "ini": "AC"
+   },
+   {
+    "family": "Evans",
+    "given": "Catrin",
+    "ini": "C"
+   },
+   {
+    "family": "de Moraes",
+    "given": "Érica Brandão",
+    "ini": "ÉB"
+   },
+   {
+    "family": "Godfrey",
+    "given": "Christina M.",
+    "ini": "CM"
+   },
+   {
+    "family": "Pieper",
+    "given": "Dawid",
+    "ini": "D"
+   },
+   {
+    "family": "Saran",
+    "given": "Ashrita",
+    "ini": "A"
+   },
+   {
+    "family": "Stern",
+    "given": "Cindy",
+    "ini": "C"
+   },
+   {
+    "family": "Munn",
+    "given": "Zachary",
+    "ini": "Z"
+   }
+  ],
+  "title": "Recommendations for the extraction, analysis, and presentation of results in scoping reviews",
+  "journal": "JBI Evidence Synthesis",
+  "abbr": "JBI Evid Synth",
+  "year": 2022,
+  "volume": "21",
+  "issue": "3",
+  "pages": "520-532",
+  "doi": "10.11124/jbies-22-00123",
+  "pmid": "",
+  "language": "en"
+ },
+ "munn2018": {
+  "key": "munn2018",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Munn",
+    "given": "Zachary",
+    "ini": "Z"
+   },
+   {
+    "family": "Peters",
+    "given": "Micah D. J.",
+    "ini": "MDJ"
+   },
+   {
+    "family": "Stern",
+    "given": "Cindy",
+    "ini": "C"
+   },
+   {
+    "family": "Tufanaru",
+    "given": "Catalin",
+    "ini": "C"
+   },
+   {
+    "family": "McArthur",
+    "given": "Alexa",
+    "ini": "A"
+   },
+   {
+    "family": "Aromataris",
+    "given": "Edoardo",
+    "ini": "E"
+   }
+  ],
+  "title": "Systematic review or scoping review? Guidance for authors when choosing between a systematic or scoping review approach",
+  "journal": "BMC Medical Research Methodology",
+  "abbr": "BMC Med Res Methodol",
+  "year": 2018,
+  "volume": "18",
+  "issue": "1",
+  "pages": "143",
+  "doi": "10.1186/s12874-018-0611-x",
+  "pmid": "",
+  "language": "en"
+ },
+ "page2021": {
+  "key": "page2021",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Page",
+    "given": "Matthew J",
+    "ini": "MJ"
+   },
+   {
+    "family": "McKenzie",
+    "given": "Joanne E",
+    "ini": "JE"
+   },
+   {
+    "family": "Bossuyt",
+    "given": "Patrick M",
+    "ini": "PM"
+   },
+   {
+    "family": "Boutron",
+    "given": "Isabelle",
+    "ini": "I"
+   },
+   {
+    "family": "Hoffmann",
+    "given": "Tammy C",
+    "ini": "TC"
+   },
+   {
+    "family": "Mulrow",
+    "given": "Cynthia D",
+    "ini": "CD"
+   },
+   {
+    "family": "Shamseer",
+    "given": "Larissa",
+    "ini": "L"
+   },
+   {
+    "family": "Tetzlaff",
+    "given": "Jennifer M",
+    "ini": "JM"
+   },
+   {
+    "family": "Akl",
+    "given": "Elie A",
+    "ini": "EA"
+   },
+   {
+    "family": "Brennan",
+    "given": "Sue E",
+    "ini": "SE"
+   },
+   {
+    "family": "Chou",
+    "given": "Roger",
+    "ini": "R"
+   },
+   {
+    "family": "Glanville",
+    "given": "Julie",
+    "ini": "J"
+   },
+   {
+    "family": "Grimshaw",
+    "given": "Jeremy M",
+    "ini": "JM"
+   },
+   {
+    "family": "Hróbjartsson",
+    "given": "Asbjørn",
+    "ini": "A"
+   },
+   {
+    "family": "Lalu",
+    "given": "Manoj M",
+    "ini": "MM"
+   },
+   {
+    "family": "Li",
+    "given": "Tianjing",
+    "ini": "T"
+   },
+   {
+    "family": "Loder",
+    "given": "Elizabeth W",
+    "ini": "EW"
+   },
+   {
+    "family": "Mayo-Wilson",
+    "given": "Evan",
+    "ini": "E"
+   },
+   {
+    "family": "McDonald",
+    "given": "Steve",
+    "ini": "S"
+   },
+   {
+    "family": "McGuinness",
+    "given": "Luke A",
+    "ini": "LA"
+   },
+   {
+    "family": "Stewart",
+    "given": "Lesley A",
+    "ini": "LA"
+   },
+   {
+    "family": "Thomas",
+    "given": "James",
+    "ini": "J"
+   },
+   {
+    "family": "Tricco",
+    "given": "Andrea C",
+    "ini": "AC"
+   },
+   {
+    "family": "Welch",
+    "given": "Vivian A",
+    "ini": "VA"
+   },
+   {
+    "family": "Whiting",
+    "given": "Penny",
+    "ini": "P"
+   },
+   {
+    "family": "Moher",
+    "given": "David",
+    "ini": "D"
+   }
+  ],
+  "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+  "journal": "BMJ",
+  "abbr": "BMJ",
+  "year": 2021,
+  "volume": "372",
+  "issue": "",
+  "pages": "n71",
+  "doi": "10.1136/bmj.n71",
+  "pmid": "",
+  "language": "en"
+ },
+ "campbell2020": {
+  "key": "campbell2020",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Campbell",
+    "given": "Mhairi",
+    "ini": "M"
+   },
+   {
+    "family": "McKenzie",
+    "given": "Joanne E",
+    "ini": "JE"
+   },
+   {
+    "family": "Sowden",
+    "given": "Amanda",
+    "ini": "A"
+   },
+   {
+    "family": "Katikireddi",
+    "given": "Srinivasa Vittal",
+    "ini": "SV"
+   },
+   {
+    "family": "Brennan",
+    "given": "Sue E",
+    "ini": "SE"
+   },
+   {
+    "family": "Ellis",
+    "given": "Simon",
+    "ini": "S"
+   },
+   {
+    "family": "Hartmann-Boyce",
+    "given": "Jamie",
+    "ini": "J"
+   },
+   {
+    "family": "Ryan",
+    "given": "Rebecca",
+    "ini": "R"
+   },
+   {
+    "family": "Shepperd",
+    "given": "Sasha",
+    "ini": "S"
+   },
+   {
+    "family": "Thomas",
+    "given": "James",
+    "ini": "J"
+   },
+   {
+    "family": "Welch",
+    "given": "Vivian",
+    "ini": "V"
+   },
+   {
+    "family": "Thomson",
+    "given": "Hilary",
+    "ini": "H"
+   }
+  ],
+  "title": "Synthesis without meta-analysis (SWiM) in systematic reviews: reporting guideline",
+  "journal": "BMJ",
+  "abbr": "BMJ",
+  "year": 2020,
+  "volume": "368",
+  "issue": "",
+  "pages": "l6890",
+  "doi": "10.1136/bmj.l6890",
+  "pmid": "",
+  "language": "en"
+ },
+ "mckenzie2019": {
+  "key": "mckenzie2019",
+  "type": "book-chapter",
+  "authors": [
+   {
+    "family": "McKenzie",
+    "given": "Joanne E",
+    "ini": "JE"
+   },
+   {
+    "family": "Brennan",
+    "given": "Sue E",
+    "ini": "SE"
+   }
+  ],
+  "title": "Synthesizing and presenting findings using other methods",
+  "journal": "Cochrane Handbook for Systematic Reviews of Interventions",
+  "abbr": "",
+  "year": 2019,
+  "volume": "",
+  "issue": "",
+  "pages": "321-347",
+  "doi": "10.1002/9781119536604.ch12",
+  "pmid": "",
+  "language": "en"
+ },
+ "miakelye2016": {
+  "key": "miakelye2016",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Miake-Lye",
+    "given": "Isomi M.",
+    "ini": "IM"
+   },
+   {
+    "family": "Hempel",
+    "given": "Susanne",
+    "ini": "S"
+   },
+   {
+    "family": "Shanman",
+    "given": "Roberta",
+    "ini": "R"
+   },
+   {
+    "family": "Shekelle",
+    "given": "Paul G.",
+    "ini": "PG"
+   }
+  ],
+  "title": "What is an evidence map? A systematic review of published evidence maps and their definitions, methods, and products",
+  "journal": "Systematic Reviews",
+  "abbr": "Syst Rev",
+  "year": 2016,
+  "volume": "5",
+  "issue": "1",
+  "pages": "28",
+  "doi": "10.1186/s13643-016-0204-x",
+  "pmid": "",
+  "language": "en"
+ },
+ "nasreddine2005": {
+  "key": "nasreddine2005",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Nasreddine",
+    "given": "Ziad S.",
+    "ini": "ZS"
+   },
+   {
+    "family": "Phillips",
+    "given": "Natalie A.",
+    "ini": "NA"
+   },
+   {
+    "family": "Bédirian",
+    "given": "Valérie",
+    "ini": "V"
+   },
+   {
+    "family": "Charbonneau",
+    "given": "Simon",
+    "ini": "S"
+   },
+   {
+    "family": "Whitehead",
+    "given": "Victor",
+    "ini": "V"
+   },
+   {
+    "family": "Collin",
+    "given": "Isabelle",
+    "ini": "I"
+   },
+   {
+    "family": "Cummings",
+    "given": "Jeffrey L.",
+    "ini": "JL"
+   },
+   {
+    "family": "Chertkow",
+    "given": "Howard",
+    "ini": "H"
+   }
+  ],
+  "title": "The Montreal Cognitive Assessment, MoCA: a brief screening tool for mild cognitive impairment",
+  "journal": "Journal of the American Geriatrics Society",
+  "abbr": "J Am Geriatr Soc",
+  "year": 2005,
+  "volume": "53",
+  "issue": "4",
+  "pages": "695-699",
+  "doi": "10.1111/j.1532-5415.2005.53221.x",
+  "pmid": "",
+  "language": "en"
+ },
+ "olson2008": {
+  "key": "olson2008",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Olson",
+    "given": "Robert Anton",
+    "ini": "RA"
+   },
+   {
+    "family": "Chhanabhai",
+    "given": "Taruna",
+    "ini": "T"
+   },
+   {
+    "family": "McKenzie",
+    "given": "Michael",
+    "ini": "M"
+   }
+  ],
+  "title": "Feasibility study of the Montreal Cognitive Assessment (MoCA) in patients with brain metastases",
+  "journal": "Supportive Care in Cancer",
+  "abbr": "Support Care Cancer",
+  "year": 2008,
+  "volume": "16",
+  "issue": "11",
+  "pages": "1273-1278",
+  "doi": "10.1007/s00520-008-0431-3",
+  "pmid": "",
+  "language": "en"
+ },
+ "olson2011": {
+  "key": "olson2011",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Olson",
+    "given": "Robert A.",
+    "ini": "RA"
+   },
+   {
+    "family": "Iverson",
+    "given": "Grant L.",
+    "ini": "GL"
+   },
+   {
+    "family": "Carolan",
+    "given": "Hannah",
+    "ini": "H"
+   },
+   {
+    "family": "Parkinson",
+    "given": "Maureen",
+    "ini": "M"
+   },
+   {
+    "family": "Brooks",
+    "given": "Brian L.",
+    "ini": "BL"
+   },
+   {
+    "family": "McKenzie",
+    "given": "Michael",
+    "ini": "M"
+   }
+  ],
+  "title": "Prospective comparison of two cognitive screening tests: diagnostic accuracy and correlation with community integration and quality of life",
+  "journal": "Journal of Neuro-Oncology",
+  "abbr": "J Neurooncol",
+  "year": 2011,
+  "volume": "105",
+  "issue": "2",
+  "pages": "337-344",
+  "doi": "10.1007/s11060-011-0595-4",
+  "pmid": "",
+  "language": "en"
+ },
+ "furtner2019": {
+  "key": "furtner2019",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Furtner",
+    "given": "Julia",
+    "ini": "J"
+   },
+   {
+    "family": "Genbrugge",
+    "given": "Els",
+    "ini": "E"
+   },
+   {
+    "family": "Gorlia",
+    "given": "Thierry",
+    "ini": "T"
+   },
+   {
+    "family": "Bendszus",
+    "given": "Martin",
+    "ini": "M"
+   },
+   {
+    "family": "Nowosielski",
+    "given": "Martha",
+    "ini": "M"
+   },
+   {
+    "family": "Golfinopoulos",
+    "given": "Vassilis",
+    "ini": "V"
+   },
+   {
+    "family": "Weller",
+    "given": "Michael",
+    "ini": "M"
+   },
+   {
+    "family": "van den Bent",
+    "given": "Martin J",
+    "ini": "MJ"
+   },
+   {
+    "family": "Wick",
+    "given": "Wolfgang",
+    "ini": "W"
+   },
+   {
+    "family": "Preusser",
+    "given": "Matthias",
+    "ini": "M"
+   }
+  ],
+  "title": "Temporal muscle thickness is an independent prognostic marker in patients with progressive glioblastoma: translational imaging analysis of the EORTC 26101 trial",
+  "journal": "Neuro-Oncology",
+  "abbr": "Neuro Oncol",
+  "year": 2019,
+  "volume": "21",
+  "issue": "12",
+  "pages": "1587-1594",
+  "doi": "10.1093/neuonc/noz131",
+  "pmid": "",
+  "language": "en"
+ },
+ "huq2022": {
+  "key": "huq2022",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Huq",
+    "given": "Sakibul",
+    "ini": "S"
+   },
+   {
+    "family": "Liu",
+    "given": "Jiaqi",
+    "ini": "J"
+   },
+   {
+    "family": "Romano",
+    "given": "Robert",
+    "ini": "R"
+   },
+   {
+    "family": "Seal",
+    "given": "Stella",
+    "ini": "S"
+   },
+   {
+    "family": "Khalafallah",
+    "given": "Adham M.",
+    "ini": "AM"
+   },
+   {
+    "family": "Walston",
+    "given": "Jeremy D.",
+    "ini": "JD"
+   },
+   {
+    "family": "Mukherjee",
+    "given": "Debraj",
+    "ini": "D"
+   }
+  ],
+  "title": "Frailty in patients undergoing surgery for brain tumors: a systematic review of the literature",
+  "journal": "World Neurosurgery",
+  "abbr": "World Neurosurg",
+  "year": 2022,
+  "volume": "166",
+  "issue": "",
+  "pages": "268-278.e8",
+  "doi": "10.1016/j.wneu.2022.07.039",
+  "pmid": "35843574",
+  "language": "en"
+ },
+ "qureshi2023": {
+  "key": "qureshi2023",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Qureshi",
+    "given": "Hanya M.",
+    "ini": "HM"
+   },
+   {
+    "family": "Tabor",
+    "given": "Joanna K.",
+    "ini": "JK"
+   },
+   {
+    "family": "Pickens",
+    "given": "Kiley",
+    "ini": "K"
+   },
+   {
+    "family": "Lei",
+    "given": "Haoyi",
+    "ini": "H"
+   },
+   {
+    "family": "Vasandani",
+    "given": "Sagar",
+    "ini": "S"
+   },
+   {
+    "family": "Jalal",
+    "given": "Muhammad I.",
+    "ini": "MI"
+   },
+   {
+    "family": "Vetsa",
+    "given": "Shaurey",
+    "ini": "S"
+   },
+   {
+    "family": "Elsamadicy",
+    "given": "Aladine",
+    "ini": "A"
+   },
+   {
+    "family": "Marianayagam",
+    "given": "Neelan",
+    "ini": "N"
+   },
+   {
+    "family": "Theriault",
+    "given": "Brianna C.",
+    "ini": "BC"
+   },
+   {
+    "family": "Fulbright",
+    "given": "Robert K.",
+    "ini": "RK"
+   },
+   {
+    "family": "Qin",
+    "given": "Ruihan",
+    "ini": "R"
+   },
+   {
+    "family": "Yan",
+    "given": "Jiarui",
+    "ini": "J"
+   },
+   {
+    "family": "Jin",
+    "given": "Lan",
+    "ini": "L"
+   },
+   {
+    "family": "O’Brien",
+    "given": "Joseph",
+    "ini": "J"
+   },
+   {
+    "family": "Morales-Valero",
+    "given": "Saul F.",
+    "ini": "SF"
+   },
+   {
+    "family": "Moliterno",
+    "given": "Jennifer",
+    "ini": "J"
+   }
+  ],
+  "title": "Frailty and postoperative outcomes in brain tumor patients: a systematic review subdivided by tumor etiology",
+  "journal": "Journal of Neuro-Oncology",
+  "abbr": "J Neurooncol",
+  "year": 2023,
+  "volume": "164",
+  "issue": "2",
+  "pages": "299-308",
+  "doi": "10.1007/s11060-023-04416-1",
+  "pmid": "37624530",
+  "language": "en"
+ },
+ "haslund2022": {
+  "key": "haslund2022",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Haslund-Vinding",
+    "given": "Jeppe",
+    "ini": "J"
+   },
+   {
+    "family": "Møller",
+    "given": "Jens Riis",
+    "ini": "JR"
+   },
+   {
+    "family": "Ziebell",
+    "given": "Morten",
+    "ini": "M"
+   },
+   {
+    "family": "Vilhardt",
+    "given": "Frederik",
+    "ini": "F"
+   },
+   {
+    "family": "Mathiesen",
+    "given": "Tiit",
+    "ini": "T"
+   }
+  ],
+  "title": "The role of systemic inflammatory cells in meningiomas",
+  "journal": "Neurosurgical Review",
+  "abbr": "Neurosurg Rev",
+  "year": 2022,
+  "volume": "45",
+  "issue": "2",
+  "pages": "1205-1215",
+  "doi": "10.1007/s10143-021-01642-x",
+  "pmid": "34716512",
+  "language": "en"
+ },
+ "domingues2016": {
+  "key": "domingues2016",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Domingues",
+    "given": "Patrícia",
+    "ini": "P"
+   },
+   {
+    "family": "González-Tablas",
+    "given": "María",
+    "ini": "M"
+   },
+   {
+    "family": "Otero",
+    "given": "Álvaro",
+    "ini": "Á"
+   },
+   {
+    "family": "Pascual",
+    "given": "Daniel",
+    "ini": "D"
+   },
+   {
+    "family": "Miranda",
+    "given": "David",
+    "ini": "D"
+   },
+   {
+    "family": "Ruiz",
+    "given": "Laura",
+    "ini": "L"
+   },
+   {
+    "family": "Sousa",
+    "given": "Pablo",
+    "ini": "P"
+   },
+   {
+    "family": "Ciudad",
+    "given": "Juana",
+    "ini": "J"
+   },
+   {
+    "family": "Gonçalves",
+    "given": "Jesús María",
+    "ini": "JM"
+   },
+   {
+    "family": "Lopes",
+    "given": "María Celeste",
+    "ini": "MC"
+   },
+   {
+    "family": "Orfao",
+    "given": "Alberto",
+    "ini": "A"
+   },
+   {
+    "family": "Tabernero",
+    "given": "María Dolores",
+    "ini": "MD"
+   }
+  ],
+  "title": "Tumor infiltrating immune cells in gliomas and meningiomas",
+  "journal": "Brain, Behavior, and Immunity",
+  "abbr": "Brain Behav Immun",
+  "year": 2016,
+  "volume": "53",
+  "issue": "",
+  "pages": "1-15",
+  "doi": "10.1016/j.bbi.2015.07.019",
+  "pmid": "26216710",
+  "language": "en"
+ },
+ "inouye2014": {
+  "key": "inouye2014",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Inouye",
+    "given": "Sharon K",
+    "ini": "SK"
+   },
+   {
+    "family": "Westendorp",
+    "given": "Rudi GJ",
+    "ini": "RG"
+   },
+   {
+    "family": "Saczynski",
+    "given": "Jane S",
+    "ini": "JS"
+   }
+  ],
+  "title": "Delirium in elderly people",
+  "journal": "The Lancet",
+  "abbr": "Lancet",
+  "year": 2014,
+  "volume": "383",
+  "issue": "9920",
+  "pages": "911-922",
+  "doi": "10.1016/s0140-6736(13)60688-1",
+  "pmid": "",
+  "language": "en"
+ },
+ "gracie2021": {
+  "key": "gracie2021",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Gracie",
+    "given": "Thomas J.",
+    "ini": "TJ"
+   },
+   {
+    "family": "Caufield-Noll",
+    "given": "Christine",
+    "ini": "C"
+   },
+   {
+    "family": "Wang",
+    "given": "Nae-Yuh",
+    "ini": "NY"
+   },
+   {
+    "family": "Sieber",
+    "given": "Frederick E.",
+    "ini": "FE"
+   }
+  ],
+  "title": "The association of preoperative frailty and postoperative delirium: a meta-analysis",
+  "journal": "Anesthesia & Analgesia",
+  "abbr": "Anesth Analg",
+  "year": 2021,
+  "volume": "133",
+  "issue": "2",
+  "pages": "314-323",
+  "doi": "10.1213/ane.0000000000005609",
+  "pmid": "",
+  "language": "en"
+ },
+ "bilotta2013": {
+  "key": "bilotta2013",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Bilotta",
+    "given": "F.",
+    "ini": "F"
+   },
+   {
+    "family": "Gelb",
+    "given": "A.W.",
+    "ini": "AW"
+   },
+   {
+    "family": "Stazi",
+    "given": "E.",
+    "ini": "E"
+   },
+   {
+    "family": "Titi",
+    "given": "L.",
+    "ini": "L"
+   },
+   {
+    "family": "Paoloni",
+    "given": "F.P.",
+    "ini": "FP"
+   },
+   {
+    "family": "Rosa",
+    "given": "G.",
+    "ini": "G"
+   }
+  ],
+  "title": "Pharmacological perioperative brain neuroprotection: a qualitative review of randomized clinical trials",
+  "journal": "British Journal of Anaesthesia",
+  "abbr": "Br J Anaesth",
+  "year": 2013,
+  "volume": "110",
+  "issue": "",
+  "pages": "i113-i120",
+  "doi": "10.1093/bja/aet059",
+  "pmid": "",
+  "language": "en"
+ },
+ "taylor2022": {
+  "key": "taylor2022",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Taylor",
+    "given": "Jennifer",
+    "ini": "J"
+   },
+   {
+    "family": "Parker",
+    "given": "Margaret",
+    "ini": "M"
+   },
+   {
+    "family": "Casey",
+    "given": "Cameron P.",
+    "ini": "CP"
+   },
+   {
+    "family": "Tanabe",
+    "given": "Sean",
+    "ini": "S"
+   },
+   {
+    "family": "Kunkel",
+    "given": "David",
+    "ini": "D"
+   },
+   {
+    "family": "Rivera",
+    "given": "Cameron",
+    "ini": "C"
+   },
+   {
+    "family": "Zetterberg",
+    "given": "Henrik",
+    "ini": "H"
+   },
+   {
+    "family": "Blennow",
+    "given": "Kaj",
+    "ini": "K"
+   },
+   {
+    "family": "Pearce",
+    "given": "Robert A.",
+    "ini": "RA"
+   },
+   {
+    "family": "Lennertz",
+    "given": "Richard C.",
+    "ini": "RC"
+   },
+   {
+    "family": "Sanders",
+    "given": "Robert D.",
+    "ini": "RD"
+   }
+  ],
+  "title": "Postoperative delirium and changes in the blood-brain barrier, neuroinflammation, and cerebrospinal fluid lactate: a prospective cohort study",
+  "journal": "British Journal of Anaesthesia",
+  "abbr": "Br J Anaesth",
+  "year": 2022,
+  "volume": "129",
+  "issue": "2",
+  "pages": "219-230",
+  "doi": "10.1016/j.bja.2022.01.005",
+  "pmid": "",
+  "language": "en"
+ },
+ "jadhav2007": {
+  "key": "jadhav2007",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Jadhav",
+    "given": "Vikram",
+    "ini": "V"
+   },
+   {
+    "family": "Solaroglu",
+    "given": "Ihsan",
+    "ini": "I"
+   },
+   {
+    "family": "Obenaus",
+    "given": "Andre",
+    "ini": "A"
+   },
+   {
+    "family": "Zhang",
+    "given": "John H.",
+    "ini": "JH"
+   }
+  ],
+  "title": "Neuroprotection against surgically induced brain injury",
+  "journal": "Surgical Neurology",
+  "abbr": "Surg Neurol",
+  "year": 2007,
+  "volume": "67",
+  "issue": "1",
+  "pages": "15-20",
+  "doi": "10.1016/j.surneu.2006.07.014",
+  "pmid": "",
+  "language": "en"
+ },
+ "aghajanian2023": {
+  "key": "aghajanian2023",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Aghajanian",
+    "given": "Sepehr",
+    "ini": "S"
+   },
+   {
+    "family": "Shafiee",
+    "given": "Arman",
+    "ini": "A"
+   },
+   {
+    "family": "Ahmadi",
+    "given": "Ahmadreza",
+    "ini": "A"
+   },
+   {
+    "family": "Elsamadicy",
+    "given": "Aladine A.",
+    "ini": "AA"
+   }
+  ],
+  "title": "Assessment of the impact of frailty on adverse surgical outcomes in patients undergoing surgery for intracranial tumors using modified frailty index: A systematic review and meta-analysis",
+  "journal": "Journal of Clinical Neuroscience",
+  "abbr": "J Clin Neurosci",
+  "year": 2023,
+  "volume": "114",
+  "issue": "",
+  "pages": "120-128",
+  "doi": "10.1016/j.jocn.2023.06.013",
+  "pmid": "",
+  "language": "en"
+ },
+ "alare2024": {
+  "key": "alare2024",
+  "type": "article-journal",
+  "authors": [
+   {
+    "family": "Alare",
+    "given": "Kehinde",
+    "ini": "K"
+   },
+   {
+    "family": "Muili",
+    "given": "Abdulbasit",
+    "ini": "A"
+   },
+   {
+    "family": "Afolabi",
+    "given": "Samson",
+    "ini": "S"
+   },
+   {
+    "family": "Adetunji",
+    "given": "Busayo",
+    "ini": "B"
+   },
+   {
+    "family": "Aderinto",
+    "given": "Nicholas",
+    "ini": "N"
+   },
+   {
+    "family": "Abdulla",
+    "given": "Ebtesam",
+    "ini": "E"
+   }
+  ],
+  "title": "The prognostic utility of frailty on the outcomes of primary brain tumor surgery patients: a meta-analysis",
+  "journal": "World Neurosurgery",
+  "abbr": "World Neurosurg",
+  "year": 2024,
+  "volume": "190",
+  "issue": "",
+  "pages": "451-462.e13",
+  "doi": "10.1016/j.wneu.2024.08.003",
+  "pmid": "",
+  "language": "en"
+ }
+}

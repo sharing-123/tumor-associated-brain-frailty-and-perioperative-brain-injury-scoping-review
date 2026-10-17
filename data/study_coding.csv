@@ -1,0 +1,71 @@
+﻿No.,Study,Country,Design class,OCEBM level (design only),Tumor category,Evidence stream,Sample size,Domains,Domain 1 systemic frailty,Domain 2 cognition,Domain 3 neurological,Domain 4 imaging
+1,"Portnow, 2014",USA,Prospective cohort,2,Mixed,"Tumor biology, microenvironment, and blood-brain barrier",10,"Inflammatory marker, Tumor biology",,,,
+2,"de Sain, 2023",Netherlands,Prospective cohort,2,Glioma,Cognitive trajectories after tumor surgery,37,"Cognition, Imaging",,Yes,,Yes
+3,"Noll, 2021",USA,Prospective cohort,2,Glioma,Cognitive trajectories after tumor surgery,15,"Cognition, Imaging",,Yes,,Yes
+4,"Grossman, 2025",USA,Non-randomized pilot trial,4,Glioma,"Tumor biology, microenvironment, and blood-brain barrier",7,"Imaging, Tumor biology",,,,Yes
+5,"Wang, 2021",China,Retrospective cohort,3,Mixed,Systemic frailty indices and perioperative risk,659,"Frailty index, Delirium",Yes,,,
+6,"Strand, 2022 (meningioma)",Norway,Prospective cohort,2,Meningioma,"Perioperative brain injury, imaging, and biomarkers",327,"Imaging, Neurological or functional",,,Yes,Yes
+7,"Strand, 2021 (glioma)",Norway,Prospective cohort,2,Glioma,"Perioperative brain injury, imaging, and biomarkers",539,Imaging,,,,Yes
+8,"Sharma, 2010","India, USA",Prospective cohort,2,Mixed,"Perioperative brain injury, imaging, and biomarkers",35,Hemodynamic,,,,
+9,"Kemmerer, 2021",Germany,Case-control,4,Glioma,"Tumor biology, microenvironment, and blood-brain barrier",18,"Inflammatory marker, Tumor biology",,,,
+10,"Michaelsson, 2023",Sweden,Prospective cohort,2,Glioma,"Perioperative brain injury, imaging, and biomarkers",34,"Injury biomarker, Imaging, Neurological or functional",,,Yes,Yes
+11,"Satoer, 2012",Netherlands,Prospective cohort,2,Glioma,Cognitive trajectories after tumor surgery,28,"Cognition, Imaging",,Yes,,Yes
+12,"Law, 2004",USA,Retrospective cohort,3,Glioma,"Tumor biology, microenvironment, and blood-brain barrier",73,"Imaging, Tumor biology",,,,Yes
+13,"Cha, 2006",USA,Prospective cohort,2,Mixed,"Tumor biology, microenvironment, and blood-brain barrier",27,"Imaging, Tumor biology",,,,Yes
+14,"van Dellen, 2013",Netherlands,Prospective cohort,2,Glioma,Cognitive trajectories after tumor surgery,10,"Cognition, Imaging",,Yes,,Yes
+15,"Einav, 2006",Israel,Prospective cohort,2,Meningioma,"Perioperative brain injury, imaging, and biomarkers",52,"Injury biomarker, Cognition, Imaging",,Yes,,Yes
+16,"Sastry, 2020",USA,Registry cohort,3,Mixed,Systemic frailty indices and perioperative risk,20333,"Frailty index, Neurological or functional",Yes,,Yes,
+17,"Harland, 2020",USA,Prospective cohort,2,Mixed,Systemic frailty indices and perioperative risk,260,"Frailty index, Neurological or functional",Yes,,Yes,
+18,"Lang, 2017",Canada,Prospective cohort,2,Glioma,Cognitive trajectories after tumor surgery,16,"Cognition, Imaging",,Yes,,Yes
+19,"Satoer, 2014",Netherlands,Prospective cohort,2,Glioma,Cognitive trajectories after tumor surgery,45,"Cognition, Imaging",,Yes,,Yes
+20,"Schei, 2022",Norway,Prospective cohort,2,Glioma,Cognitive trajectories after tumor surgery,182,"Cognition, Imaging",,Yes,,Yes
+21,"Gempt, 2013 (MEP)",Germany,Prospective cohort,2,Glioma,"Perioperative brain injury, imaging, and biomarkers",70,"Imaging, Neurological or functional",,,Yes,Yes
+22,"Gempt, 2013 (recurrence)",Germany,Prospective cohort,2,Glioma,"Perioperative brain injury, imaging, and biomarkers",100,"Imaging, Neurological or functional",,,Yes,Yes
+23,"Baumgarten, 2018",Germany,Prospective cohort,2,Mixed,"Perioperative brain injury, imaging, and biomarkers",32,"Injury biomarker, Imaging",,,,Yes
+24,"Bommakanti, 2016",India,Prospective cohort,2,Meningioma,Cognitive trajectories after tumor surgery,57,"Cognition, Imaging",,Yes,,Yes
+25,"Huq, 2021",USA,Retrospective cohort,3,Mixed,Systemic frailty indices and perioperative risk,1692,Frailty index,Yes,,,
+26,"Tucha, 2003",Germany,Prospective cohort,2,Meningioma,Cognitive trajectories after tumor surgery,54,"Cognition, Imaging",,Yes,,Yes
+27,"Piperi, 2011",Greece,Retrospective cohort,3,Glioma,"Tumor biology, microenvironment, and blood-brain barrier",97,"Inflammatory marker, Tumor biology",,,,
+28,"Stranjalis, 2005",Greece,Prospective cohort,2,Meningioma,"Perioperative brain injury, imaging, and biomarkers",50,"Injury biomarker, Neurological or functional, Imaging",,,Yes,Yes
+29,"Stewart, 1987",Canada,Mechanistic laboratory study,5,Glioma,"Tumor biology, microenvironment, and blood-brain barrier",13,Tumor biology,,,,
+30,"Hoffermann, 2017",Austria,Retrospective cohort,3,Mixed,Cognitive trajectories after tumor surgery,196,Cognition,,Yes,,
+31,"Chen, 2020",China,Cross-sectional study,4,Mixed,Postoperative delirium and agitation,893,Delirium,,,,
+32,"Khan, 2006",USA,Prospective cohort,2,Mixed,"Perioperative brain injury, imaging, and biomarkers",80,"Imaging, Neurological or functional",,,Yes,Yes
+33,"Machein, 1999",Germany,Mechanistic laboratory study,5,Mixed,"Tumor biology, microenvironment, and blood-brain barrier",14,"Inflammatory marker, Imaging, Tumor biology",,,,Yes
+34,"Zangrossi, 2022",Italy,Retrospective cohort,3,Glioma,Cognitive trajectories after tumor surgery,47,"Cognition, Imaging",,Yes,,Yes
+35,"Barberis, 2022",France,Case series,4,Glioma,Cognitive trajectories after tumor surgery,18,"Cognition, Imaging",,Yes,,Yes
+36,"Barzilai, 2019",Israel,Retrospective cohort,3,Glioma,Cognitive trajectories after tumor surgery,49,Cognition,,Yes,,
+37,"Capo, 2020",Italy,Retrospective cohort,3,Glioma,Cognitive trajectories after tumor surgery,40,Cognition,,Yes,,
+38,"Fu, 2024",USA,Registry cohort,3,Mixed,Postoperative delirium and agitation,28340,"Frailty index, Delirium",Yes,,,
+39,"Gracia, 2025",Spain,RCT,2,Mixed,Perioperative interventions and neuroprotective strategies,51,"Injury biomarker, Cognition, Imaging, Neurological or functional",,Yes,Yes,Yes
+40,"Gu, 2022",China,Retrospective cohort,3,Mixed,Postoperative delirium and agitation,618,Delirium,,,,
+41,"Hernandez-Palazon, 2018",Spain,RCT,2,Mixed,Perioperative interventions and neuroprotective strategies,60,Hemodynamic,,,,
+42,"Ravindranath, 2025",India,Trial protocol,NG,Glioma,Perioperative interventions and neuroprotective strategies,,"Injury biomarker, Inflammatory marker, Cognition, Delirium",,Yes,,
+43,"Huang, 2018",China,Prospective cohort,2,Mixed,Postoperative delirium and agitation,400,"Delirium, Imaging",,,,Yes
+44,"Jiang, 2023",China,RCT,2,Mixed,Perioperative interventions and neuroprotective strategies,110,"Cognition, Hemodynamic",,Yes,,
+45,"Favre, 1995",Switzerland,RCT,2,Mixed,Perioperative interventions and neuroprotective strategies,24,Hemodynamic,,,,
+46,"Guy, 1997",USA,RCT,2,Mixed,Perioperative interventions and neuroprotective strategies,63,"Hemodynamic, Neurological or functional",,,Yes,
+47,"Jitsinthunun, 2022",Thailand,RCT,2,Meningioma,Perioperative interventions and neuroprotective strategies,76,Cognition,,Yes,,
+48,"Sriganesh, 2023",India,Trial protocol,NG,Mixed,Perioperative interventions and neuroprotective strategies,,Delirium,,,,
+49,"Li, 2023",China,RCT,2,Mixed,Perioperative interventions and neuroprotective strategies,260,"Delirium, Cognition",,Yes,,
+50,"Lu, 2010",China,RCT,2,Mixed,Perioperative interventions and neuroprotective strategies,32,Injury biomarker,,,,
+51,"Mahajan, 2019",India,RCT,2,Mixed,Perioperative interventions and neuroprotective strategies,41,Injury biomarker,,,,
+52,"Meskal, 2015",Netherlands,Prospective cohort,2,Meningioma,Cognitive trajectories after tumor surgery,68,Cognition,,Yes,,
+53,"Mirrahimi, 2015",Iran,RCT,2,Mixed,Perioperative interventions and neuroprotective strategies,60,"Injury biomarker, Neurological or functional",,,Yes,
+54,"Mousa, 2011",Egypt,RCT,2,Mixed,Perioperative interventions and neuroprotective strategies,60,Hemodynamic,,,,
+55,"Peng, 2016",China,RCT,2,Mixed,Perioperative interventions and neuroprotective strategies,80,"Cognition, Hemodynamic",,Yes,,
+56,"Niki, 2020",Japan,Prospective cohort,2,Glioma,Cognitive trajectories after tumor surgery,54,"Cognition, Imaging",,Yes,,Yes
+57,"Schouwenaars, 2024",Netherlands,Prospective cohort,2,Meningioma,Cognitive trajectories after tumor surgery,23,"Cognition, Imaging",,Yes,,Yes
+58,"Skandalakis, 2023",USA,Registry cohort,3,Metastasis,Systemic frailty indices and perioperative risk,11038,Frailty index,Yes,,,
+59,"Stalnacke, 2021",Sweden,Case series,4,Glioma,Cognitive trajectories after tumor surgery,7,"Cognition, Neurological or functional",,Yes,Yes,
+60,"Tran, 2025",USA,Retrospective cohort,3,Mixed,Cognitive trajectories after tumor surgery,20,"Cognition, Imaging",,Yes,,Yes
+61,"Tan, 2025",China,RCT,2,Meningioma,Perioperative interventions and neuroprotective strategies,78,"Injury biomarker, Hemodynamic",,,,
+62,"Budenas, 2018",Lithuania,Prospective cohort,2,Mixed,Postoperative delirium and agitation,522,"Delirium, Inflammatory marker, Neurological or functional",,,Yes,
+63,"van Nieuwenhuizen, 2018",Netherlands,Case-control,4,Meningioma,Cognitive trajectories after tumor surgery,20,"Cognition, Imaging",,Yes,,Yes
+64,"Wu, 2017",Taiwan,RCT,2,Mixed,Perioperative interventions and neuroprotective strategies,80,"Injury biomarker, Hemodynamic, Neurological or functional",,,Yes,
+65,"Wu, 2025",China,Secondary analysis of RCT,3,Mixed,Postoperative delirium and agitation,240,"Delirium, Hemodynamic, Cognition",,Yes,,
+66,"Wu, 2022",China,RCT,2,Mixed,Perioperative interventions and neuroprotective strategies,80,"Injury biomarker, Inflammatory marker, Cognition, Imaging",,Yes,,Yes
+67,"Yuan, 2023",China,RCT,2,Mixed,Perioperative interventions and neuroprotective strategies,291,"Frailty index, Delirium, Neurological or functional",Yes,,Yes,
+68,"Zarino, 2021",Italy,Prospective cohort,2,Glioma,Cognitive trajectories after tumor surgery,35,"Cognition, Neurological or functional",,Yes,Yes,
+69,"Zhao, 2022",China,RCT,2,Mixed,Perioperative interventions and neuroprotective strategies,60,"Injury biomarker, Inflammatory marker",,,,
+70,"Zigiotto, 2026",Italy,Retrospective cohort,3,Glioma,Cognitive trajectories after tumor surgery,64,"Cognition, Imaging",,Yes,,Yes
