@@ -126,8 +126,8 @@ CONCLUSIONS = "The mapped literature does not define tumor-associated brain frai
 ACKNOWLEDGEMENTS = "The authors thank the clinical team that commissioned the review and supplied the sources on the Indonesian instruments."
 
 FIG_LEGENDS = [
-    ("Figure 1", "PRISMA 2020 flow diagram of study identification, screening, and inclusion, with databases and the preprint server on the left and other methods on the right. CENTRAL, Cochrane Central Register of Controlled Trials."),
-    ("Figure 2", "Evidence map of domains against tumor category. Bubble size is the number of core studies and shading is the share of graded studies at Oxford Centre for Evidence-Based Medicine level 2. Trial protocols are excluded."),
+    ("Figure 1", "PRISMA 2020 flow diagram of study identification, screening, and inclusion, with databases and the preprint server on the left and other methods on the right. Other methods are Google Scholar, citation searching, and sources supplied by the clinical team."),
+    ("Figure 2", "Evidence map of domains against tumor category. Bubble size is the number of core studies and shading is the share of graded studies at Oxford Centre for Evidence-Based Medicine level 2. Trial protocols are excluded from the bubbles but counted in the column totals."),
     ("Figure 3", "Conceptual two-hit model. The tumor supplies the first hit and perioperative brain injury the second. No core study tested the interaction between the hits. DWI, diffusion-weighted imaging. GFAP, glial fibrillary acidic protein. NfL, neurofilament light chain."),
 ]
 

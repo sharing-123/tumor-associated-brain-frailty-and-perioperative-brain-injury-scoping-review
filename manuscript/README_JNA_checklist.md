@@ -8,7 +8,7 @@ Article type: Review Article (scoping review). Instructions for Authors dated Ap
 | --- | --- |
 | Manuscript.docx | Title page, abstract and key words, Introduction, Methods, Results, Discussion, Conclusions, Acknowledgements, References, Figure Legends, and the list of supplemental digital content, in one file |
 | Tables.docx | Tables grouped in a separate file, each on a new page with title, column heads, and legend |
-| Figures/Figure 1.pdf to Figure 3.pdf | One figure per file, vector PDF, no headings inside the figure, legends are in the manuscript |
+| Figures/Figure 1 to Figure 3 | One figure per file in three formats, TIFF at 1200 dpi (primary, LZW compressed), vector PDF, and PNG at 600 dpi. No headings inside the figure, legends are in the manuscript. Figure 1 is the supplied PRISMA 2020 template with the numbers updated to 76 studies |
 | SDC 1.xlsx to SDC 11.docx | Supplemental digital content, one item per file, numbered in order of first call-out |
 | JNA_Zotero_style.csl | Citation style that reproduces the journal reference format for Zotero (see below) |
 
@@ -29,7 +29,7 @@ Article type: Review Article (scoping review). Instructions for Authors dated Ap
 | No unpublished or non-peer-reviewed sources in the reference list | The one preprint among the included studies is cited only in Supplemental Digital Content 6 |
 | Tables outside the body, on new pages, abbreviations defined in legends | Applied |
 | Figures outside the body, legends after the reference list | Applied |
-| Figure files vector or at least 1200 dpi | Vector PDF |
+| Figure files TIFF, EPS, or Office files, line art vector or at least 1200 dpi | TIFF at 1200 dpi and vector PDF |
 | Supplemental digital content call-outs with number, type, and description, plus a list at the end of the manuscript | Applied |
 | Abbreviations defined at first use | Applied in the main text, in each table legend, and in each figure legend |
 | US spelling, AMA style | Applied |
