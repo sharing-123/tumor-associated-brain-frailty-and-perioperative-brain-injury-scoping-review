@@ -128,7 +128,7 @@ ACKNOWLEDGEMENTS = "The authors thank the clinical team that commissioned the re
 FIG_LEGENDS = [
     ("Figure 1", "PRISMA 2020 flow diagram of study identification, screening, and inclusion, with databases and the preprint server on the left and other methods on the right. Other methods are Google Scholar, citation searching, and sources supplied by the clinical team."),
     ("Figure 2", "Evidence map of domains against tumor category. Bubble size is the number of core studies and shading is the share of graded studies at Oxford Centre for Evidence-Based Medicine level 2. Trial protocols are excluded from the bubbles but counted in the column totals."),
-    ("Figure 3", "Conceptual two-hit model. The tumor supplies the first hit and perioperative brain injury the second. No core study tested the interaction between the hits. DWI, diffusion-weighted imaging. GFAP, glial fibrillary acidic protein. NfL, neurofilament light chain."),
+    ("Figure 3", "Evidence for each component of the two-hit model, with the tumor as the first hit and surgery and anesthesia as the second hit. Dots show the number of core studies with data on each item, and a study can appear in more than one row. Color shows whether the findings of those studies point the same way. No core study tested the interaction between the hits."),
 ]
 
 FIG_FILES = {1: "fig1_prisma", 2: "fig3_evidence_map", 3: "fig5_twohit"}

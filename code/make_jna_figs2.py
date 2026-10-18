@@ -80,30 +80,57 @@ def arrow(ax, x1, y1, x2, y2, color=INK, lw=1.4, style="-|>", ls="-"):
     ax.add_patch(FancyArrowPatch((x1, y1), (x2, y2), arrowstyle=style, mutation_scale=11, lw=lw, color=color, shrinkA=0, shrinkB=0, linestyle=ls, zorder=3))
 
 def two_hit():
-    fig, ax = plt.subplots(figsize=(7.4, 3.9))
-    ax.set_xlim(0, 12)
-    ax.set_ylim(0, 6.3)
-    ax.axis("off")
-    cards = [
-        (0.1, GOLD, "#FBF4E6", "First hit", "The tumor",
-         ["Mass effect and peritumoral edema", "Barrier leak and microvessel defect", "Macrophage-rich inflammation", "Cognition impaired before surgery", "in 8 of 8 studies that tested it"]),
-        (4.14, NAVY, "#E8F0F5", "Second hit", "Surgery and anesthesia",
-         ["Craniotomy, retraction, vessel injury", "Anesthetic and hemodynamic load", "New DWI lesions after 19% to 46%", "S100B, GFAP, and NfL rise", "Amplified inflammation (hypothesized)"]),
-        (8.18, TEAL, "#E7F3F3", "Observed outcomes", "After surgery",
-         ["Delirium or agitation, 4.2% to 35%", "Early cognitive decline, often recovering", "New neurologic deficit", "Longer stay and non-home discharge", "Higher mortality across frailty strata"]),
+    rows = [
+        ("H", "FIRST HIT, THE TUMOR", GOLD),
+        ("R", "Systemic frailty linked to worse outcome", 7, "c"),
+        ("R", "Cognition impaired before surgery", 8, "c"),
+        ("R", "Inflammatory or tumor-tissue markers", 7, "m"),
+        ("H", "SECOND HIT, SURGERY AND ANESTHESIA", NAVY),
+        ("R", "New diffusion-weighted lesions after resection", 6, "c"),
+        ("R", "Postoperative rise of brain injury markers", 4, "c"),
+        ("R", "Delirium or agitation", 7, "m"),
+        ("R", "Hemodynamic findings", 3, "m"),
+        ("H", "LINK BETWEEN THE TWO HITS", BRICK),
+        ("R", "Preoperative state predicts postoperative course", 4, "c"),
+        ("R", "Interventions aimed at the second hit", 11, "m"),
+        ("R", "Interaction between the hits tested", 0, "n"),
     ]
-    W, Y0, H = 3.72, 1.45, 4.55
-    for x, ec, fc, kicker, head, lines in cards:
-        rbox(ax, x, Y0, W, H, fc, ec, 1.2)
-        ax.add_patch(FancyBboxPatch((x, Y0 + H - 1.15), W, 1.15, boxstyle="round,pad=0,rounding_size=0.12", fc=ec, ec=ec, lw=1.2, zorder=2))
-        ax.text(x + 0.22, Y0 + H - 0.38, kicker.upper(), color="white", fontsize=6.6, fontweight="bold", va="center", zorder=4)
-        ax.text(x + 0.22, Y0 + H - 0.80, head, color="white", fontsize=9.2, fontweight="bold", va="center", zorder=4)
-        for k, ln in enumerate(lines):
-            ax.text(x + 0.22, Y0 + H - 1.62 - 0.52 * k, ln, fontsize=6.5, color=INK, va="center", zorder=4)
-    for xa in (3.84, 7.88):
-        arrow(ax, xa, Y0 + H / 2 - 0.2, xa + 0.3, Y0 + H / 2 - 0.2, NAVY, 1.6)
-    ax.add_patch(FancyArrowPatch((1.85, Y0 - 0.1), (6.0, Y0 - 0.1), connectionstyle="arc3,rad=0.28", arrowstyle="-|>", mutation_scale=11, lw=1.3, color=BRICK, linestyle=(0, (4, 3)), zorder=3))
-    ax.text(3.95, 0.52, "Interaction between the two hits not tested in any core study", ha="center", va="center", fontsize=7.4, color=BRICK, fontweight="bold")
+    col = {"c": NAVY, "m": GOLD, "n": BRICK}
+    n = len(rows)
+    fig = plt.figure(figsize=(7.4, 4.9))
+    ax = fig.add_axes([0.42, 0.14, 0.38, 0.82])
+    ax.set_ylim(n - 0.4, -0.7)
+    ax.set_xlim(-0.6, 13)
+    for x in (0, 2, 4, 6, 8, 10, 12):
+        ax.axvline(x, color="#E6E8EA", lw=0.8, zorder=0)
+    ax.set_yticks([])
+    for sp in ("top", "right", "left"):
+        ax.spines[sp].set_visible(False)
+    ax.spines["bottom"].set_color(SLATE)
+    ax.tick_params(axis="x", length=0, labelsize=7.6, colors=INK)
+    ax.set_xticks([0, 2, 4, 6, 8, 10, 12])
+    ax.set_xlabel("Core studies, n", fontsize=8.4, color=INK, labelpad=6)
+    ytrans = ax.get_yaxis_transform()
+    for i, r in enumerate(rows):
+        if r[0] == "H":
+            ax.text(-0.03, i, r[1], transform=ytrans, fontsize=7.2, fontweight="bold", color=r[2], ha="right", va="center")
+            if i > 0:
+                ax.axhline(i - 0.55, color="#C9CED3", lw=0.8, zorder=1)
+            continue
+        _, lab, v, k = r
+        c = col[k]
+        ax.text(-0.03, i, lab, transform=ytrans, fontsize=8, color=INK, ha="right", va="center")
+        if v == 0:
+            ax.scatter(0, i, s=95, facecolor="white", edgecolor=c, lw=1.4, zorder=3)
+            ax.text(0.55, i, "0", fontsize=8, color=c, fontweight="bold", va="center")
+        else:
+            ax.plot([0, v], [i, i], color=c, lw=2.2, solid_capstyle="round", zorder=2)
+            ax.scatter(v, i, s=95, facecolor=c, edgecolor="white", lw=0.8, zorder=3)
+            ax.text(v + 0.5, i, str(v), fontsize=8, color=INK, fontweight="bold", va="center")
+    leg = [Line2D([0], [0], marker="o", ls="", markerfacecolor=NAVY, markeredgecolor="white", markersize=8, label="Studies point the same way"),
+           Line2D([0], [0], marker="o", ls="", markerfacecolor=GOLD, markeredgecolor="white", markersize=8, label="Studies differ or are not\ncomparable"),
+           Line2D([0], [0], marker="o", ls="", markerfacecolor="white", markeredgecolor=BRICK, markeredgewidth=1.4, markersize=8, label="No study")]
+    fig.legend(handles=leg, title="Direction of findings", loc="upper left", bbox_to_anchor=(0.83, 0.56), frameon=False, labelspacing=1.0, fontsize=7.6, title_fontsize=8.2, handletextpad=0.5, borderpad=0)
     save(fig, "jna_fig3_two_hit")
 
 def characteristics():
