@@ -20,7 +20,7 @@ The review maps 76 studies (70 core studies and 6 on the Indonesian MoCA and NAN
 
 | Archive | Link |
 | --- | --- |
-| Zenodo | to be added after release |
+| Zenodo | [10.5281/zenodo.23443881](https://doi.org/10.5281/zenodo.23443881) |
 
 ## Findings at a glance
 

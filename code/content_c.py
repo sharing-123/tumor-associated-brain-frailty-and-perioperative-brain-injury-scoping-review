@@ -27,7 +27,7 @@ BACK = [
  ("h1b", "Informed Consent Statement"),
  ("p", "Not applicable."),
  ("h1b", "Data Availability Statement"),
- ("p", "All data analyzed in this review are contained in the article and its Supplementary Tables. The search strategies, charting form, coded dataset, and analysis scripts are available in the public GitHub repository (https://github.com/sharing-123/tumor-associated-brain-frailty-and-perioperative-brain-injury-scoping-review), and an archived version is deposited on Zenodo ({hl:ZENODO LINK TO BE INSERTED HERE}). Further inquiries can be directed to the corresponding author."),
+ ("p", "All data analyzed in this review are contained in the article and its Supplementary Tables. The search strategies, charting form, coded dataset, and analysis scripts are available in the public GitHub repository (https://github.com/sharing-123/tumor-associated-brain-frailty-and-perioperative-brain-injury-scoping-review), and an archived version is deposited on Zenodo (https://doi.org/10.5281/zenodo.23443881). Further inquiries can be directed to the corresponding author."),
  ("h1b", "Use of Generative Artificial Intelligence"),
  ("p", "To be completed by the authors in line with the target journal policy."),
  ("h1b", "Conflicts of Interest"),
