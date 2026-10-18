@@ -87,7 +87,7 @@ def fig_prisma():
             ha="center", va="center", fontsize=7.2, fontweight="bold", linespacing=1.4)
     arrow(ax, L + LW / 2, 1.75, L + LW / 2, 1.15)
     arrow(ax, Rx + RW / 2, 1.75, Rx + RW / 2, 1.15)
-    fig.savefig(OUT + r"\fig1_prisma.png", dpi=300, bbox_inches="tight", facecolor="white")
+    fig.savefig(OUT + "/fig1_prisma.png", dpi=300, bbox_inches="tight", facecolor="white")
     plt.close(fig)
 
 if __name__ == "__main__":

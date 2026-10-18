@@ -48,7 +48,7 @@ def fig_map():
            Line2D([0], [0], marker="o", color="w", markerfacecolor=AMBER, markersize=8, label="25% to 74% at level 2"),
            Line2D([0], [0], marker="o", color="w", markerfacecolor=GRAY, markersize=8, label="Under 25% or ungraded")]
     ax.legend(handles=leg, loc="upper center", bbox_to_anchor=(0.45, -0.01), ncol=3, frameon=False, fontsize=6.8)
-    fig.savefig(OUT + r"\fig3_evidence_map.png", dpi=300, bbox_inches="tight", facecolor="white")
+    fig.savefig(OUT + "/fig3_evidence_map.png", dpi=300, bbox_inches="tight", facecolor="white")
     plt.close(fig)
 
 def fig_framework():
@@ -87,7 +87,7 @@ def fig_framework():
     rbox(ax, 0.1, 0.1, 9.8, 1.05, "#e3f2f4", NAVY, 1.1)
     ax.text(5.0, 0.62, "Working hypothesis for perioperative care\nThe tumor supplies a first hit. Craniotomy and anesthesia can supply a second hit.",
             ha="center", va="center", fontsize=6.8, linespacing=1.5)
-    fig.savefig(OUT + r"\fig4_framework.png", dpi=300, bbox_inches="tight", facecolor="white")
+    fig.savefig(OUT + "/fig4_framework.png", dpi=300, bbox_inches="tight", facecolor="white")
     plt.close(fig)
 
 def fig_twohit():
@@ -118,7 +118,7 @@ def fig_twohit():
     rbox(ax, 0.1, 0.1, 9.8, 1.5, "#e9edf2", NAVY, 1.0)
     ax.text(5.0, 0.85, "Outcome after surgery reflects the combined load of both hits\nStudies that measure the tumor-related state before surgery and the injury signal after surgery\nin the same patients are needed to estimate each contribution and their interaction",
             ha="center", va="center", fontsize=6.6, linespacing=1.5)
-    fig.savefig(OUT + r"\fig5_twohit.png", dpi=300, bbox_inches="tight", facecolor="white")
+    fig.savefig(OUT + "/fig5_twohit.png", dpi=300, bbox_inches="tight", facecolor="white")
     plt.close(fig)
 
 if __name__ == "__main__":

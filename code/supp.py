@@ -13,11 +13,11 @@ from tables import FLAGNAME
 import content_b as B
 
 OUT = "../outputs/Supplementary_Tables_S1-S6.xlsx"
-REFS = json.load(open(BUILD + r"\refs_master.json", encoding="utf-8"))
+REFS = json.load(open(BUILD + "/refs_master.json", encoding="utf-8"))
 ZK = json.load(open(BUILD + "/zkeys.json"))
-ORDER = json.load(open(BUILD + r"\cite_order.json"))
+ORDER = json.load(open(BUILD + "/cite_order.json"))
 CNUM = {k: i + 1 for i, k in enumerate(ORDER)}
-CR = json.load(open(BUILD + r"\cr_all.json", encoding="utf-8"))
+CR = json.load(open(BUILD + "/cr_all.json", encoding="utf-8"))
 XL = openpyxl.load_workbook("../inputs/Esktraksi Data (1).xlsx")["Master Extraction"]
 XROWS = [r for r in XL.iter_rows(min_row=2, values_only=True) if r[0]]
 XH = [c.value for c in XL[1]]

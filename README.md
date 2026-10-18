@@ -5,9 +5,9 @@
 <p align="center">
   <a href="https://sharing-123.github.io/tumor-associated-brain-frailty-and-perioperative-brain-injury-scoping-review/"><b>Interactive site</b></a>
   &nbsp;/&nbsp;
-  <a href="manuscript/Scoping_Review_PBI_preview.pdf"><b>Manuscript PDF</b></a>
+  <a href="manuscript/Manuscript_preview.pdf"><b>Manuscript PDF</b></a>
   &nbsp;/&nbsp;
-  <a href="supplementary/Supplementary_Tables_S1-S6.xlsx"><b>Supplementary tables</b></a>
+  <a href="manuscript/README_JNA_checklist.md"><b>Journal checklist</b></a>
   &nbsp;/&nbsp;
   <a href="CITATION.cff"><b>Cite</b></a>
 </p>
@@ -37,11 +37,10 @@ The review maps 76 studies (70 core studies and 6 on the Indonesian MoCA and NAN
 | Folder | Contents |
 | --- | --- |
 | `docs/` | Source of the interactive site: WebGL hero, evidence map, two-hit model, and a particle-brain analysis lab |
-| `manuscript/` | Full manuscript in Word with live Zotero citation fields (NLM superscript) and a PDF preview |
-| `supplementary/` | Supplementary Tables S1 to S6 in one Excel workbook |
-| `figures/` | The five manuscript figures, 300 dpi PNG |
+| `manuscript/` | Submission package for the Journal of Neurosurgical Anesthesiology: manuscript, tables, three vector figures, eleven supplemental digital content files, Zotero citation style, and a checklist against the Instructions for Authors |
+| `figures/` | PNG versions of the manuscript and supplemental figures |
 | `data/` | Search strategies, 31-item charting form for 76 studies, study coding, reference verification log, verified reference records |
-| `code/` | Python scripts that generate every count, table, figure, and the manuscript |
+| `code/` | Python scripts that generate every count, table, figure, and the submission files |
 
 ## Rebuilding the outputs
 
@@ -50,7 +49,7 @@ Scripts in `code/` use relative paths. Place the extraction workbook and the sea
 ```bash
 cd code
 python -X utf8 prisma_numbers.py
-python -X utf8 build_docx.py
+python -X utf8 build_jna.py
 ```
 
 The Zotero step in `zupload.py` reads its key from the `ZOTERO_API_KEY` environment variable. The extraction workbook, the Zotero library, and the full-text PDFs of included studies are not part of this repository.

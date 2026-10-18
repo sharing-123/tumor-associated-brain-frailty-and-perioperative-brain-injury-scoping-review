@@ -65,7 +65,7 @@ def fig_characteristics():
         d.text(v + 0.3, i, str(v), va="center", fontsize=7.5)
     d.set_title("D  Evidence stream", loc="left", fontsize=8.5, fontweight="bold"); d.tick_params(axis="y", labelsize=7)
     fig.tight_layout()
-    fig.savefig(OUT + r"\fig2_characteristics.png", dpi=300, facecolor="white")
+    fig.savefig(OUT + "/fig2_characteristics.png", dpi=300, facecolor="white")
     plt.close(fig)
 
 ROWS = [
@@ -118,7 +118,7 @@ def fig_map():
            Line2D([0], [0], marker="o", color="w", markerfacecolor=GRAY, markersize=9, label="Under 25% at level 2, or ungraded")]
     ax.legend(handles=leg, loc="upper center", bbox_to_anchor=(0.5, -0.02), ncol=3, frameon=False, fontsize=7)
     fig.tight_layout()
-    fig.savefig(OUT + r"\fig3_evidence_map.png", dpi=300, facecolor="white")
+    fig.savefig(OUT + "/fig3_evidence_map.png", dpi=300, facecolor="white")
     plt.close(fig)
     return M
 
@@ -153,7 +153,7 @@ def fig_framework():
         "Hypothesis for perioperative care\nThe tumor supplies the first hit. Craniotomy and anesthesia can supply a second hit (perioperative brain injury).",
         fc="#e3f2f4", fs=7.3, align="center")
     arrow(ax, 5.0, 1.6, 5.0, 1.15)
-    fig.savefig(OUT + r"\fig4_framework.png", dpi=300, bbox_inches="tight", facecolor="white")
+    fig.savefig(OUT + "/fig4_framework.png", dpi=300, bbox_inches="tight", facecolor="white")
     plt.close(fig)
 
 def fig_twohit():
@@ -175,7 +175,7 @@ def fig_twohit():
     box(ax, 0.1, 2.2, 3.0, 1.0, "Systemic frailty indices, cognitive screening,\nneurological scales, imaging, and markers\n(domains of the working construct)", fc="#f4f6f8", fs=6.3, align="center")
     box(ax, 3.5, 2.2, 6.4, 1.0, "Interaction between the two hits was not tested in any of the 70 core studies\nPresurgical cognition did predict early postsurgical cognition (Zangrossi), and frailty strata\npredicted delirium (Wang), which fits the model but does not prove it", fc="#f4f6f8", fs=6.3, align="center")
     box(ax, 0.1, 0.2, 9.8, 1.4, "Outcome after surgery reflects the combined load of both hits\nStudies that measure the tumor-related state before surgery and the injury signal after surgery in the same patients\nare needed to estimate each contribution and their interaction", fc="#e9edf2", fs=7.0, align="center")
-    fig.savefig(OUT + r"\fig5_twohit.png", dpi=300, bbox_inches="tight", facecolor="white")
+    fig.savefig(OUT + "/fig5_twohit.png", dpi=300, bbox_inches="tight", facecolor="white")
     plt.close(fig)
 
 if __name__ == "__main__":

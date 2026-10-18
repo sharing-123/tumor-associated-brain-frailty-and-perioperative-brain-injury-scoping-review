@@ -4,8 +4,8 @@ sys.stdout.reconfigure(encoding="utf-8")
 BUILD = "."
 KEY = os.environ["ZOTERO_API_KEY"]
 UID = 14681764
-refs = json.load(open(BUILD + r"\refs_master.json", encoding="utf-8"))
-order = json.load(open(BUILD + r"\cite_order.json"))
+refs = json.load(open(BUILD + "/refs_master.json", encoding="utf-8"))
+order = json.load(open(BUILD + "/cite_order.json"))
 COLL_NAME = "Scoping Review PBI 2026 - Tumor-Associated Brain Frailty"
 
 def api(method, path, body=None, extra=None):
