@@ -14,7 +14,7 @@
 
 ## Overview
 
-Open materials for the scoping review **Tumor-Associated Brain Frailty and Perioperative Brain Injury in Neuro-Oncologic Surgery: A Scoping Review of Concepts, Domains, Neuroinflammatory Mechanisms, and Biomarkers**, by Khairunnisai Tarimah and Elvan Wiyarta.
+Open materials for the scoping review **Tumor-Associated Brain Frailty and Perioperative Brain Injury in Neuro-Oncologic Surgery: A Scoping Review**, by Khairunnisai Tarimah and Elvan Wiyarta.
 
 The review maps 76 studies (70 core studies and 6 on the Indonesian MoCA and NANO instruments) against four candidate domains of tumor-associated brain frailty, neuroinflammatory mechanisms, brain injury biomarkers, and a two-hit model of perioperative brain injury. It follows JBI guidance and PRISMA-ScR. The review was not registered. This repository is its public record.
 

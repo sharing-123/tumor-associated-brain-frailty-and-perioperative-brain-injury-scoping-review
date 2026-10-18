@@ -1,4 +1,4 @@
-TITLE = "Tumor-Associated Brain Frailty and Perioperative Brain Injury in Neuro-Oncologic Surgery: A Scoping Review of Concepts, Domains, Neuroinflammatory Mechanisms, and Biomarkers"
+TITLE = "Tumor-Associated Brain Frailty and Perioperative Brain Injury in Neuro-Oncologic Surgery: A Scoping Review"
 AUTHORS = dict(
     names=[("Khairunnisai Tarimah", 0), ("1,2,*", 1), (" and Elvan Wiyarta", 0), ("3", 1)],
     affil=[
